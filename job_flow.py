@@ -1,3 +1,8 @@
+# pip install "prefect>=2.14,<3.0.0"
+# prefect deployment build job_flow.py:job_flow --name "Hourly Job Scraper" --interval 3600
+# prefect deployment apply job_flow-deployment.yaml
+# prefect agent start
+
 from prefect import flow, task
 import subprocess
 
