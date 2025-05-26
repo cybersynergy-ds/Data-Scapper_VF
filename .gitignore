@@ -1,0 +1,7 @@
+backup_htmls
+__pycache__
+.env
+h1bcompanies_list.csv
+mysql-apt-config_*.deb
+mysql-apt-config.deb
+.prefectignore

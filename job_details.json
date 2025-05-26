@@ -1,0 +1,1175 @@
+[
+  {
+    "job_id": "1",
+    "job_title": "Foundry Process Control and Yield Engineer, Custom Silicon",
+    "company_name": "Google",
+    "job_location": "New Taipei, Banqiao District, New Taipei City, Taiwan",
+    "entry_level": "Mid",
+    "minimum_qualifications": [
+      "Bachelor's degree in a technical field, or equivalent practical experience.",
+      "2 years of experience in program management.",
+      "2 years of data analytics experience (such as a data engineer or data scientist) in semiconductor manufacturing industry.",
+      "Experience with silicon testing and yield methodologies and with analyzing volume semiconductor manufacturing data using programming languages and analysis tools (e.g., Python, R, JMP)."
+    ],
+    "preferred_qualifications": [
+      "Master’s degree in Electrical Engineering, Computer Science, or a related field.",
+      "Experience with silicon testing and yield methodologies, test data formats (e.g., STDF), and common silicon analysis techniques.",
+      "Experience in gathering and documenting analysis requirements from stakeholders, translating them into actionable specifications, and soliciting feedback for continuous improvement.",
+      "Experience with Colab or Jupyter Notebooks and excellent data analysis and visualization skills using Python, Pandas, and libraries like Matplotlib, or Plotly.",
+      "Understanding of SQL for data validation and querying.",
+      "Ability to work effectively cross-functionally, collaborating with teams from a broad set of domains and stakeholders across different time zones."
+    ],
+    "job_description": "A problem isn’t truly solved until it’s solved for all. That’s why Googlers build products that help create opportunities for everyone, whether down the street or across the globe. As a Technical Program Manager at Google, you’ll use your technical expertise to lead complex, multi-disciplinary projects from start to finish. You’ll work with stakeholders to plan requirements, identify risks, manage project schedules, and communicate clearly with cross-functional partners across the company. You're equally comfortable explaining your team's analyses and recommendations to executives as you are discussing the technical tradeoffs in product development with engineers. As a Process and Yield Engineer for Custom Silicon, you will join the team responsible for High-Volume Custom Silicon Manufacturing from New Product Introduction (NPI) through product ramp, sustaining, and end of life (EOL). You will be driving yield and process improvement and scrap optimization, manufacturing performance, quality and excursion management and prevention, value engineering, change control management, new production site qualifications for alternate sourcing and business continuity, ensuring High-Volume Manufacturing (HVM) capacity readiness, and optimizing cycle time. Google's mission is to organize the world's information and make it universally accessible and useful. Our Devices and Services team combines the best of Google AI, Software, and Hardware to create radically helpful experiences for users. We research, design, and develop new technologies and hardware to make our user's interaction with computing faster, seamless, and more powerful. Whether finding new ways to capture and sense the world around us, advancing form factors, or improving interaction methods, the Devices and Services team is making people's lives better through technology.",
+    "responsibilities": [
+      "Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google'sApplicant and Candidate Privacy Policy.",
+      "Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See alsoGoogle's EEO Policy,Know your rights: workplace discrimination is illegal,Belonging at Google, andHow we hire.",
+      "If you have a need that requires accommodation, please let us know by completing ourAccommodations for Applicants form.",
+      "Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for all roles unless stated otherwise in the job posting.",
+      "To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization location. Google is not responsible for any fees related to unsolicited resumes."
+    ]
+  },
+  {
+    "job_id": "2",
+    "job_title": "Data Engineer, Play Data Science and Analytics",
+    "company_name": "Google",
+    "job_location": "Mountain View, CA, USA",
+    "entry_level": "Advanced",
+    "minimum_qualifications": [
+      "Bachelor's degree in Computer Science, Mathematics, a related field, or equivalent practical experience.",
+      "10 years of experience coding with SQL or one or more programming languages (e.g., Python, Java, R, etc.) for data manipulation, analysis, and automation",
+      "8 years of experience designing data pipelines (ETL) and dimensional data modeling for synchronous and asynchronous system integration and implementation.",
+      "Experience in managing troubleshooting technical issues, and working with Engineering and Sales Services teams."
+    ],
+    "preferred_qualifications": [
+      "Master’s degree in Engineering, Computer Science, Business, or a related field.",
+      "Experience with cloud-based services relevant to data engineering, data storage, data processing, data warehousing, real-time streaming, and serverless computing.",
+      "Experience with experimentation infrastructure, and measurement approaches in a technology platform.",
+      "Experience with data processing software (e.g., Hadoop, Spark, Pig, Hive) and algorithms (e.g., MapReduce, Flume)."
+    ],
+    "job_description": "In this role, you will work with various Data Science and Analytics (DSA) teams and upstream analytics engineering teams to design and build data marts that will empower and accelerate the DSA team and its stakeholders. You will possess an understanding of data scientists and their data requirements and have expertise in architecting data marts, designing and implementing necessary data pipelines, and establishing governance and quality processes to guarantee data availability, usability, and accuracy.The US base salary range for this full-time position is $180,000-$267,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process. Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google .",
+    "responsibilities": [
+      "Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google'sApplicant and Candidate Privacy Policy.",
+      "Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See alsoGoogle's EEO Policy,Know your rights: workplace discrimination is illegal,Belonging at Google, andHow we hire.",
+      "If you have a need that requires accommodation, please let us know by completing ourAccommodations for Applicants form.",
+      "Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for all roles unless stated otherwise in the job posting.",
+      "To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization location. Google is not responsible for any fees related to unsolicited resumes."
+    ]
+  },
+  {
+    "job_id": "3",
+    "job_title": "Data Engineer, YouTube Business Technology",
+    "company_name": "YouTube",
+    "job_location": "Bengaluru, Karnataka, India",
+    "entry_level": "Mid",
+    "minimum_qualifications": [
+      "Bachelor’s degree or equivalent practical experience.",
+      "3 years of experience coding in one or more programming languages.",
+      "3 years of experience working with data infrastructure and data models by performing exploratory queries and scripts.",
+      "Experience in data analysis, database querying (e.g., SQL), and data visualization (dashboards/reports).",
+      "Experience in defining and implementing data governance policies, procedures, and standards, as well as data privacy regulations and compliance requirements."
+    ],
+    "preferred_qualifications": [
+      "Experience working in a business tooling or operations organization.",
+      "Experience with data analysis at scale, including statistics, and machine learning model development (data preparation, model selection, evaluation, tuning).",
+      "Experience with a wide range of data engineering and data governance tools and technologies, including cloud platforms (e.g., GCP, Looker), data warehousing solutions, data quality tools, and metadata management systems.",
+      "Experience in building prototypes or proof-of-concepts using generative AI models (e.g., LLMs, diffusion models) or agentic workflow frameworks."
+    ],
+    "job_description": "In this role, you will be responsible for developing and maintaining solutions that streamline data access, enhance data hygiene, and improve telemetry for YouTube's internal business teams. Your work will impact the efficiency and effectiveness of our support organization, enabling them to better serve our users. You will be part of an engineering team focused on building tools, creating proof-of-concept prototypes, and generating/reviewing technical design documents to address the data needs of our support teamsYouTube/Video Global Solutions is the link between Google video products and sales. Our mission is to fuel innovation that keeps YouTube and Video free and accessible to the world. We do this by translating global market needs into meaningful product solutions that drive business results for content partners and customers.",
+    "responsibilities": [
+      "Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google'sApplicant and Candidate Privacy Policy.",
+      "Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See alsoGoogle's EEO Policy,Know your rights: workplace discrimination is illegal,Belonging at Google, andHow we hire.",
+      "If you have a need that requires accommodation, please let us know by completing ourAccommodations for Applicants form.",
+      "Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for all roles unless stated otherwise in the job posting.",
+      "To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization location. Google is not responsible for any fees related to unsolicited resumes."
+    ]
+  },
+  {
+    "job_id": "4",
+    "job_title": "Data Engineer, Ads Marketing Analytics (Spanish and English)",
+    "company_name": "Google",
+    "job_location": "Mexico City, CDMX, Mexico",
+    "entry_level": "Mid",
+    "minimum_qualifications": [
+      "Bachelor's degree or equivalent practical experience.",
+      "3 years of experience coding in one or more programming languages.",
+      "3 years of experience working with data infrastructure and data models by performing exploratory queries and scripts.",
+      "Ability to communicate in Spanish and English fluently to support client relationship management in this region."
+    ],
+    "preferred_qualifications": [
+      "Experience with cloud-based data platforms.",
+      "Experience working with advanced analytics solutions involving machine learning and statistical analytics including prompt engineering techniques.",
+      "Knowledge of data warehousing concepts, including technical architectures, infrastructure components, ETL and reporting/analytics tools and environments.",
+      "Knowledge of SQL, and experience with data processing software.",
+      "Ability to work cross-functionally with technical and business stakeholders with listening, critical thinking, and problem-solving skills.",
+      "Ability to operate in a fast-paced, constantly evolving and collaborative environment."
+    ],
+    "job_description": "gTech’s Product and Tools Operations team (gPTO) leverages deep user, operational, and technical insights to innovate Google's Ads products into customer experiences that are so intuitive (or automated) that they require no support at all. gPTO partners closely with gTech’s Support, Professional Services, Product Management, and Engineering teams to innovate and simplify our Ads products and build the productivity tools ecosystem for gTech users. As a Data Engineer on the Ads Marketing Analytics team, you will play a vital role in building and maintaining the data infrastructure that fuels our marketing measurement you will design, develop, and optimize data pipelines, ensuring data quality and accessibility for analysis and reporting. Your technical expertise will enable the marketing team to leverage data-driven insights to optimize campaigns and measure the impact of marketing initiatives. You will leverage AI in your work. Know the user. Know the magic. Connect the two. At its core, marketing at Google starts with technology and ends with the user, bringing both together in unconventional ways. Our job is to demonstrate how Google's products solve the world's problems--from the everyday to the epic, from the mundane to the monumental. And we approach marketing in a way that only Google can--changing the game, redefining the medium, making the user the priority, and ultimately, letting the technology speak for itself.",
+    "responsibilities": [
+      "Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google'sApplicant and Candidate Privacy Policy.",
+      "Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See alsoGoogle's EEO Policy,Know your rights: workplace discrimination is illegal,Belonging at Google, andHow we hire.",
+      "If you have a need that requires accommodation, please let us know by completing ourAccommodations for Applicants form.",
+      "Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for all roles unless stated otherwise in the job posting.",
+      "To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization location. Google is not responsible for any fees related to unsolicited resumes."
+    ]
+  },
+  {
+    "job_id": "5",
+    "job_title": "Senior Data Engineer, Supply Chain, Google Cloud",
+    "company_name": "Google",
+    "job_location": "Bengaluru, Karnataka, India",
+    "entry_level": "Mid",
+    "minimum_qualifications": [
+      "Bachelor's degree in Computer Science, Mathematics, a related field, or equivalent practical experience.",
+      "5 years of experience with data processing software (e.g., Hadoop, Spark, Pig, Hive) and algorithms (e.g., MapReduce, Flume).",
+      "Experience writing software in Java, C++, Python, Go, or JavaScript.",
+      "Experience with client-facing projects, troubleshooting technical issues, and working with Engineering and Sales Services teams."
+    ],
+    "preferred_qualifications": [
+      "Experience with data center technology or supply chain.",
+      "Experience working with data scientists.",
+      "Experience with a wide range of data engineering and data governance tools and technologies, including cloud platforms (e.g., Google Cloud Platform), data warehousing solutions, data quality tools, and metadata management systems.",
+      "Experience with collaborative coding and version control.",
+      "Understanding of analytics and model development lifecycle.",
+      "Ability to develop and execute roadmaps for scaling data engineering capabilities."
+    ],
+    "job_description": "The Google Cloud Consulting Professional Services team guides customers through the moments that matter most in their cloud journey to help businesses thrive. We help customers transform and evolve their business through the use of Google’s global network, web-scale data centers, and software infrastructure. As part of an innovative team in this rapidly growing business, you will help shape the future of businesses of all sizes and use technology to connect with customers, employees, and partners. As a Data Engineer, you will guide customers on how to ingest, store, process, analyze, explore, and visualize data on Google Cloud Platform. You will be responsible for data migrations and transformations, partner with clients to architect scalable data processing systems, build efficient data pipelines, and resolve platform tests. In this role, you will collaborate with Google Cloud customers and our team to successfully implement Google Cloud products. Google Cloud accelerates every organization’s ability to digitally transform its business and industry. We deliver enterprise-grade solutions that leverage Google’s cutting-edge technology, and tools that help developers build more sustainably. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to enable growth and solve their most critical business problems.",
+    "responsibilities": [
+      "Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google'sApplicant and Candidate Privacy Policy.",
+      "Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See alsoGoogle's EEO Policy,Know your rights: workplace discrimination is illegal,Belonging at Google, andHow we hire.",
+      "If you have a need that requires accommodation, please let us know by completing ourAccommodations for Applicants form.",
+      "Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for all roles unless stated otherwise in the job posting.",
+      "To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization location. Google is not responsible for any fees related to unsolicited resumes."
+    ]
+  },
+  {
+    "job_id": "6",
+    "job_title": "Data Engineer, Google Trust and Safety",
+    "company_name": "Google",
+    "job_location": "Austin, TX, USA",
+    "entry_level": "Mid",
+    "minimum_qualifications": [
+      "Bachelor's degree or equivalent practical experience.",
+      "3 years of experience working with data infrastructure and data models by performing exploratory queries and scripts.",
+      "3 years of experience designing data pipelines, and dimensional data modeling for synch and asynch system integration and implementation using internal (e.g., Flume, etc.) and external stacks (DataFlow, Spark, etc.).",
+      "3 years of experience with SQL and Python (or Java/C++)."
+    ],
+    "preferred_qualifications": [
+      "3 years of experience with statistical methodology and data consumption tools such as business intelligence tools, collabs, jupyter notebooks, Tableau, Power BI, DataStudio, and business intelligence platforms.",
+      "3 years of experience partnering with stakeholders (e.g., users, partners, customers), and managing stakeholders/customers.",
+      "3 years of experience developing project plans and delivering projects on time within budget and scope.",
+      "Experience with Machine Learning for production workflows."
+    ],
+    "job_description": "gTech’s Product and Tools Operations team (gPTO) leverages deep user, operational, and technical insights to innovate Google's Ads products into customer experiences that are so intuitive (or automated) that they require no support at all. gPTO partners closely with gTech’s Support, Professional Services, Product Management, and Engineering teams to innovate and simplify our Ads products and build the productivity tools ecosystem for gTech users. As part of this team, you will be responsible for designing and developing the data infrastructure needed to support metrics and measurement capabilities for Trust and Safety across various Google products, including Search, Ads, Play, Shopping, Publishers, and YouTube business generation. You will ensure stakeholders have the product, support, and operations data they need to make crucial business decisions. You will have the opportunity to design innovative data solutions and solve challenging problems using Google’s production data infrastructure to drive business optimization and meet regulatory reporting requirements. The US base salary range for this full-time position is $124,000-$178,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process. Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google .",
+    "responsibilities": [
+      "Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google'sApplicant and Candidate Privacy Policy.",
+      "Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See alsoGoogle's EEO Policy,Know your rights: workplace discrimination is illegal,Belonging at Google, andHow we hire.",
+      "If you have a need that requires accommodation, please let us know by completing ourAccommodations for Applicants form.",
+      "Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for all roles unless stated otherwise in the job posting.",
+      "To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization location. Google is not responsible for any fees related to unsolicited resumes."
+    ]
+  },
+  {
+    "job_id": "7",
+    "job_title": "Infrastructure Partner Data Engineer, YouTube",
+    "company_name": "YouTube",
+    "job_location": "Bengaluru, Karnataka, India",
+    "entry_level": "Mid",
+    "minimum_qualifications": [
+      "Bachelor's degree or equivalent practical experience.",
+      "3 years of experience coding in one or more programming languages.",
+      "3 years of experience designing data pipelines, and dimensional data modeling for synch and asynch system integration and implementation using internal (e.g., Flume, etc.) and external stacks (e.g., DataFlow, Spark, etc.).",
+      "3 years of experience working with data infrastructure and data models by performing exploratory queries and scripts."
+    ],
+    "preferred_qualifications": [
+      "3 years of experience with statistical methodology and data consumption tools such as business intelligence tools, collabs, jupyter notebooks, Tableau, Power BI, DataStudio, and business intelligence platforms.",
+      "3 years of experience partnering with stakeholders (e.g., users, partners, customer), and managing stakeholders/customers.",
+      "3 years of experience developing project plans and delivering projects on time within budget and scope.",
+      "Experience with Machine Learning for production workflows."
+    ],
+    "job_description": "As a Technical Solutions Consultant, you will be responsible for the technical relationship of our largest advertising clients and/or product partners. You will lead cross-functional teams in Engineering, Sales and Product Management to leverage emerging technologies for our external clients/partners. From concept design and testing to data analysis and support, you will oversee the technical execution and business operations of Google's online advertising platforms and/or product partnerships. You will be able to balance business and partner needs with technical constraints, develop innovative, cutting edge solutions and act as a partner and consultant to those you are working with. You will also be able to build tools and automate products, oversee the technical execution and business operations of Google's partnerships, as well as develop product strategy and prioritize projects and resources.\nYouTube/Video Global Solutions is the link between Google video products and sales. Our mission is to fuel innovation that keeps YouTube and Video free and accessible to the world. We do this by translating global market needs into meaningful product solutions that drive business results for content partners and customers.",
+    "responsibilities": [
+      "Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google'sApplicant and Candidate Privacy Policy.",
+      "Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See alsoGoogle's EEO Policy,Know your rights: workplace discrimination is illegal,Belonging at Google, andHow we hire.",
+      "If you have a need that requires accommodation, please let us know by completing ourAccommodations for Applicants form.",
+      "Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for all roles unless stated otherwise in the job posting.",
+      "To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization location. Google is not responsible for any fees related to unsolicited resumes."
+    ]
+  },
+  {
+    "job_id": "8",
+    "job_title": "Data Engineer, Google Customer Solutions Engineering",
+    "company_name": "Google",
+    "job_location": "San Francisco, CA, USA",
+    "entry_level": "Mid",
+    "minimum_qualifications": [
+      "Bachelor’s degree in Engineering, Computer Science, a related field, or equivalent practical experience.",
+      "3 years of experience coding with one or more programming languages (e.g., Python, Java, C/C++).",
+      "3 years of experience designing data pipelines (ETL) and model data, for synch and asynch system integration and implementation.",
+      "3 years of experience analyzing data, database query (e.g., SQL), and creating dashboards/reports."
+    ],
+    "preferred_qualifications": [
+      "Master’s degree in Engineering or Computer Science or related field, or equivalent practical experience.",
+      "3 years of experience developing project plans and delivering projects on time within budget and scope.",
+      "3 years of experience partnering with stakeholders (e.g., users, partners, customer).",
+      "Experience with JavaScript and web applications, including front-end frameworks (e.g., Angular, React, Polymer) or backend web services and microservices on cloud infrastructure.",
+      "Familiarity with core web technologies (e.g., HTTP, TCP/IP, HTML, CSS, XML).",
+      "Ability to break down ambiguous problems and generating actionable insights for business decisions."
+    ],
+    "job_description": "In this role, you will be at the forefront of innovating and developing solutions for complex business issues. You will play a pivotal role in building robust data pipelines and full-stack software applications that empower engineers, analysts, and other key stakeholders across the Google Customer Solutions (GCS) organization. Our fluid business environment demands an agile approach to data issues, and you will be instrumental in driving these initiatives forward. Google Customer Solutions (GCS) sales teams are trusted advisors and competitive sellers who maintain a relentless focus on customer success by bringing the best Google has to offer to small- and medium-sized businesses (SMBs), which are the backbone of our communities. As a member of our team, you’ll have the opportunity to work with company owners and make a real difference in their businesses by helping them grow.  Together, we help shape the future of innovation for customers, partners, and sellers...and we have fun doing it. The US base salary range for this full-time position is $124,000-$178,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process. Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google .",
+    "responsibilities": [
+      "Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google'sApplicant and Candidate Privacy Policy.",
+      "Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See alsoGoogle's EEO Policy,Know your rights: workplace discrimination is illegal,Belonging at Google, andHow we hire.",
+      "If you have a need that requires accommodation, please let us know by completing ourAccommodations for Applicants form.",
+      "Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for all roles unless stated otherwise in the job posting.",
+      "To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization location. Google is not responsible for any fees related to unsolicited resumes."
+    ]
+  },
+  {
+    "job_id": "9",
+    "job_title": "Senior Data Engineer, Ads Marketing Analytics (Spanish, English)",
+    "company_name": "Google",
+    "job_location": "Mexico City, CDMX, Mexico",
+    "entry_level": "Mid",
+    "minimum_qualifications": [
+      "Bachelor's degree or equivalent practical experience.",
+      "5 years of experience coding in one or more programming languages.",
+      "5 years of experience working with data infrastructure and data models by performing exploratory queries and scripts.",
+      "Ability to communicate in Spanish and English fluently to support client relationship management in this region."
+    ],
+    "preferred_qualifications": [
+      "Experience working with advanced analytics solutions involving machine learning and statistical analytics including prompt engineering techniques.",
+      "Experience with cloud-based data platforms.",
+      "Knowledge of data warehousing concepts, including technical architectures, infrastructure components, ETL and reporting/analytics tools and environments.",
+      "Knowledge of SQL, and experience with data processing software.",
+      "Ability to work cross-functionally with technical and business stakeholders with listening, critical thinking, and problem-solving skills.",
+      "Ability to operate in a fast-paced, constantly evolving and collaborative environment."
+    ],
+    "job_description": "gTech’s Product and Tools Operations team (gPTO) leverages deep user, operational, and technical insights to innovate Google's Ads products into customer experiences that are so intuitive (or automated) that they require no support at all. gPTO partners closely with gTech’s Support, Professional Services, Product Management, and Engineering teams to innovate and simplify our Ads products and build the productivity tools ecosystem for gTech users. As a Data Engineer on the Ads Marketing Analytics team, you will play a vital role in building and maintaining the data infrastructure that fuels our marketing measurement you will design, develop, and optimize data pipelines, ensuring data quality and accessibility for analysis and reporting. Your technical expertise will enable the marketing team to leverage data-driven insights to optimize campaigns and measure the impact of marketing initiatives. You will leverage AI in your work. Know the user. Know the magic. Connect the two. At its core, marketing at Google starts with technology and ends with the user, bringing both together in unconventional ways. Our job is to demonstrate how Google's products solve the world's problems--from the everyday to the epic, from the mundane to the monumental. And we approach marketing in a way that only Google can--changing the game, redefining the medium, making the user the priority, and ultimately, letting the technology speak for itself.",
+    "responsibilities": [
+      "Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google'sApplicant and Candidate Privacy Policy.",
+      "Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See alsoGoogle's EEO Policy,Know your rights: workplace discrimination is illegal,Belonging at Google, andHow we hire.",
+      "If you have a need that requires accommodation, please let us know by completing ourAccommodations for Applicants form.",
+      "Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for all roles unless stated otherwise in the job posting.",
+      "To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization location. Google is not responsible for any fees related to unsolicited resumes."
+    ]
+  },
+  {
+    "job_id": "10",
+    "job_title": "Senior Data Engineer, Infrastructure, Google Trust and Safety",
+    "company_name": "Google",
+    "job_location": "Dublin, Ireland",
+    "entry_level": "Mid",
+    "minimum_qualifications": [
+      "Bachelor's degree or equivalent practical experience.",
+      "5 years of experience designing data pipelines, and dimensional data modeling for synch and asynch system integration and implementation using internal (e.g., Flume, etc.) and external stacks (DataFlow, Spark, etc.).",
+      "5 years of experience coding in one or more programming languages (e.g., SQL, Python).",
+      "5 years of experience working with data infrastructure and data models by performing exploratory queries and scripts."
+    ],
+    "preferred_qualifications": [
+      "5 years of experience with statistical methodology and data consumption tools such as business intelligence tools, collabs, jupyter notebooks, Tableau, Power BI, Data Studio, and business intelligence platforms.",
+      "3 years of experience developing project plans and delivering projects on time within budget and scope.",
+      "3 years of experience partnering with stakeholders (e.g., users, partners, customer), and managing stakeholders/customers.",
+      "Experience with Machine Learning for production workflows."
+    ],
+    "job_description": "The Core team builds the technical foundation behind Google’s flagship products. We are owners and advocates for the underlying design elements, developer platforms, product components, and infrastructure at Google. These are the essential building blocks for excellent, safe, and coherent experiences for our users and drive the pace of innovation for every developer. We look across Google’s products to build central solutions, break down technical barriers and strengthen existing systems. As the Core team, we have a mandate and a unique opportunity to impact important technical decisions across the company.",
+    "responsibilities": [
+      "Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google'sApplicant and Candidate Privacy Policy.",
+      "Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See alsoGoogle's EEO Policy,Know your rights: workplace discrimination is illegal,Belonging at Google, andHow we hire.",
+      "If you have a need that requires accommodation, please let us know by completing ourAccommodations for Applicants form.",
+      "Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for all roles unless stated otherwise in the job posting.",
+      "To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization location. Google is not responsible for any fees related to unsolicited resumes."
+    ]
+  },
+  {
+    "job_id": "11",
+    "job_title": "Data Engineer, Analytics, Core Infrastructure, Trust and Safety",
+    "company_name": "Google",
+    "job_location": "Dublin, Ireland",
+    "entry_level": "Mid",
+    "minimum_qualifications": [
+      "Bachelor's degree or equivalent practical experience.",
+      "3 years of experience coding in one or more programming languages.",
+      "3 years of experience working with data infrastructure and data models by performing exploratory queries and scripts.",
+      "3 years of experience designing data pipelines, and dimensional data modeling for synch and asynch system integration and implementation using internal (e.g., Flume, etc.) and external stacks (DataFlow, Spark, etc.)."
+    ],
+    "preferred_qualifications": [
+      "3 years of experience with statistical methodology and data consumption tools such as business intelligence tools, collabs, jupyter notebooks, Tableau, Power BI, DataStudio, and business intelligence platforms.",
+      "3 years of experience partnering with stakeholders (e.g., users, partners, customer), and managing stakeholders/customers.",
+      "3 years of experience developing project plans and delivering projects on time within budget and scope.",
+      "Experience with Machine Learning for production workflows."
+    ],
+    "job_description": "The Core team builds the technical foundation behind Google’s flagship products. We are owners and advocates for the underlying design elements, developer platforms, product components, and infrastructure at Google. These are the essential building blocks for excellent, safe, and coherent experiences for our users and drive the pace of innovation for every developer. We look across Google’s products to build central solutions, break down technical barriers and strengthen existing systems. As the Core team, we have a mandate and a unique opportunity to impact important technical decisions across the company.",
+    "responsibilities": [
+      "Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google'sApplicant and Candidate Privacy Policy.",
+      "Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See alsoGoogle's EEO Policy,Know your rights: workplace discrimination is illegal,Belonging at Google, andHow we hire.",
+      "If you have a need that requires accommodation, please let us know by completing ourAccommodations for Applicants form.",
+      "Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for all roles unless stated otherwise in the job posting.",
+      "To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization location. Google is not responsible for any fees related to unsolicited resumes."
+    ]
+  },
+  {
+    "job_id": "12",
+    "job_title": "Revenue Systems Data Engineer, Ads and YouTube Controllership",
+    "company_name": "Google",
+    "job_location": "Dublin, Ireland",
+    "entry_level": "Mid",
+    "minimum_qualifications": [
+      "Bachelor’s degree or equivalent practical experience.",
+      "3 years of experience in one or more object oriented programming languages (Java, C++, or Python, etc.).",
+      "3 years of experience designing data models, data warehouses, and using SQL and NoSQL database management systems along with data processing using traditional and distributed systems (e.g., Hadoop, Spark, Dataflow, Airflow)."
+    ],
+    "preferred_qualifications": [
+      "Master’s degree in Business, Statistics, Mathematics, Economics, Engineering or Applied Science, or a related field.",
+      "5 years of experience in a customer-facing role.",
+      "5 years of experience managing projects and working with analytics, software coding, or customer-side web technologies.",
+      "3 years of experience writing and maintaining ETLs which operate on a variety of structured and unstructured sources.",
+      "3 years of experience in distributed data processing and Unix or GNU/Linux systems.",
+      "Working knowledge of machine learning, including data preparation, model selection, performance evaluation, and parameter tuning."
+    ],
+    "job_description": "As a Revenue Systems Data Engineer within the Ads & YouTube Controllership, you will play a pivotal role in optimizing financial processes and reporting for Google's key product area. You will be instrumental in understanding our product business generation, billing, and ERP systems to advise on and implement process automation, directly supporting critical accounting and controllership activities. In this role, you will collaborate closely with accountants and various engineering teams, translating complex business requirements into robust technical solutions. Your expertise will bridge the gap between business needs and engineering execution, driving enhancements in the efficiency and accuracy of financial reporting. As a multi-domain expert, you will develop high-impact data solutions, ensuring the integrity and compliance of our financial data. Google creates products and services that make the world a better place, and gTech’s role is to help bring them to life. Our teams of trusted advisors support customers globally. Our solutions are rooted in our technical skill, product expertise, and a thorough understanding of our customers’ complex needs. Whether the answer is a bespoke solution to solve a unique problem, or a new tool that can scale across Google, everything we do aims to ensure our customers benefit from the full potential of Google products. To learn more about gTech, check out our video .",
+    "responsibilities": [
+      "Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google'sApplicant and Candidate Privacy Policy.",
+      "Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See alsoGoogle's EEO Policy,Know your rights: workplace discrimination is illegal,Belonging at Google, andHow we hire.",
+      "If you have a need that requires accommodation, please let us know by completing ourAccommodations for Applicants form.",
+      "Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for all roles unless stated otherwise in the job posting.",
+      "To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization location. Google is not responsible for any fees related to unsolicited resumes."
+    ]
+  },
+  {
+    "job_id": "13",
+    "job_title": "Senior Data Engineer, Trust and Safety",
+    "company_name": "Google",
+    "job_location": "Dublin, Ireland",
+    "entry_level": "Mid",
+    "minimum_qualifications": [
+      "Bachelor's degree or equivalent practical experience.",
+      "5 years of experience designing data pipelines, and dimensional data modeling for synchronous and asynchronous system integration and implementation using internal (e.g., Flume, etc.) and external stacks (DataFlow, Spark, etc.).",
+      "5 years of experience coding in one or more programming languages (e.g., SQL and Python).",
+      "5 years of experience working with data infrastructure and data models by performing exploratory queries and scripts."
+    ],
+    "preferred_qualifications": [
+      "5 years of experience with statistical methodology and data consumption tools such as business intelligence tools, collabs, jupyter notebooks, Tableau, Power BI, DataStudio, and business intelligence platforms.",
+      "3 years of experience developing project plans and delivering projects on time within budget and scope.",
+      "3 years of experience partnering with stakeholders (e.g., users, partners, customer), and managing stakeholders, or customers.",
+      "Experience with Machine Learning (ML) for production workflows."
+    ],
+    "job_description": "Global Solutions is the link between Google products and business. Your focus is to help turn innovation into complete, packaged tools that allow our customers to get the most that they need from our products. As part of the Global Solutions team, you'll help to ensure that Google has adopted the right strategy for our products. Working in one of three specialized areas – Performance, Brand, or Publisher & Platform – you'll use your expertise to help front-line Sales partners to work their magic quickly and effectively. You are passionate about all things digital, and want to help shape the world of online advertising.",
+    "responsibilities": [
+      "Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google'sApplicant and Candidate Privacy Policy.",
+      "Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See alsoGoogle's EEO Policy,Know your rights: workplace discrimination is illegal,Belonging at Google, andHow we hire.",
+      "If you have a need that requires accommodation, please let us know by completing ourAccommodations for Applicants form.",
+      "Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for all roles unless stated otherwise in the job posting.",
+      "To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization location. Google is not responsible for any fees related to unsolicited resumes."
+    ]
+  },
+  {
+    "job_id": "14",
+    "job_title": "Data Engineer III, Go-to-Market Operations",
+    "company_name": "Google",
+    "job_location": "New York, NY, USA",
+    "entry_level": "Mid",
+    "minimum_qualifications": [
+      "Bachelor's degree or equivalent practical experience.",
+      "3 years of experience coding in one or more programming languages.",
+      "3 years of experience working with data infrastructure and data models by performing exploratory queries and scripts.",
+      "3 years of experience designing data pipelines, and dimensional data modeling for synch and asynch system integration and implementation using internal (e.g., Flume, etc.) and external stacks (DataFlow, Spark, etc.)."
+    ],
+    "preferred_qualifications": [
+      "Master's degree in Computer Science or a related technical field with relevant coursework or projects.",
+      "4 years of experience with statistical methodology and data consumption tools such as business intelligence tools, collabs, jupyter notebooks, Tableau, Power BI, DataStudio, and business intelligence platforms.",
+      "3 years of experience partnering with stakeholders (e.g., users, partners, customer), presenting to impactful stakeholders, and managing stakeholder or customer relationships.",
+      "Experience developing new project plans and delivering projects on time within budget and scope.",
+      "Excellent problem-solving, communication, and collaboration skills."
+    ],
+    "job_description": "Global Business Organization (GBO) is a global team that serves as the strategy, operations, and product commercialization partner to our Go-to-Market teams. The team ensures Google's complex and ever-evolving business delivers strategic growth and operates effectively. As a Data Engineer in the GBO Eng team, you will focus on building, designing, and deploying a scalable, robust data warehouse using Google internal technologies including Flume, Napa, etc. You will partner with a team of engineers, product managers, and analysts, to build new features to support Google's internal Google Marketing Platform (GMP) sellers. You will architect high quality software, and design key tools and systems as part of infrastructure consisting of ETL pipelines, storage layers, presentation layers, and more. Your contributions will directly impact Google's ad sales business at scale. The Go-to-Market Operations (GtM) team ensures Google's complex and ever-evolving Ads business runs smoothly. We are instrumental in setting go-to-market strategy, and ensuring flawless execution and operations against the strategy. We have teams embedded in each of the major Ads business areas as well as global teams that work across the business areas. Team members are analytical and strategic, with a pragmatic sense of how to get things done. The US base salary range for this full-time position is $124,000-$178,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.\n\nPlease note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google .",
+    "responsibilities": [
+      "Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google'sApplicant and Candidate Privacy Policy.",
+      "Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See alsoGoogle's EEO Policy,Know your rights: workplace discrimination is illegal,Belonging at Google, andHow we hire.",
+      "If you have a need that requires accommodation, please let us know by completing ourAccommodations for Applicants form.",
+      "Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for all roles unless stated otherwise in the job posting.",
+      "To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization location. Google is not responsible for any fees related to unsolicited resumes."
+    ]
+  },
+  {
+    "job_id": "1",
+    "job_title": "Foundry Process Control and Yield Engineer, Custom Silicon",
+    "company_name": "Google",
+    "job_location": "New Taipei, Banqiao District, New Taipei City, Taiwan",
+    "entry_level": "Mid",
+    "minimum_qualifications": [
+      "Bachelor's degree in a technical field, or equivalent practical experience.",
+      "2 years of experience in program management.",
+      "2 years of data analytics experience (such as a data engineer or data scientist) in semiconductor manufacturing industry.",
+      "Experience with silicon testing and yield methodologies and with analyzing volume semiconductor manufacturing data using programming languages and analysis tools (e.g., Python, R, JMP)."
+    ],
+    "preferred_qualifications": [
+      "Master’s degree in Electrical Engineering, Computer Science, or a related field.",
+      "Experience with silicon testing and yield methodologies, test data formats (e.g., STDF), and common silicon analysis techniques.",
+      "Experience in gathering and documenting analysis requirements from stakeholders, translating them into actionable specifications, and soliciting feedback for continuous improvement.",
+      "Experience with Colab or Jupyter Notebooks and excellent data analysis and visualization skills using Python, Pandas, and libraries like Matplotlib, or Plotly.",
+      "Understanding of SQL for data validation and querying.",
+      "Ability to work effectively cross-functionally, collaborating with teams from a broad set of domains and stakeholders across different time zones."
+    ],
+    "job_description": "A problem isn’t truly solved until it’s solved for all. That’s why Googlers build products that help create opportunities for everyone, whether down the street or across the globe. As a Technical Program Manager at Google, you’ll use your technical expertise to lead complex, multi-disciplinary projects from start to finish. You’ll work with stakeholders to plan requirements, identify risks, manage project schedules, and communicate clearly with cross-functional partners across the company. You're equally comfortable explaining your team's analyses and recommendations to executives as you are discussing the technical tradeoffs in product development with engineers. As a Process and Yield Engineer for Custom Silicon, you will join the team responsible for High-Volume Custom Silicon Manufacturing from New Product Introduction (NPI) through product ramp, sustaining, and end of life (EOL). You will be driving yield and process improvement and scrap optimization, manufacturing performance, quality and excursion management and prevention, value engineering, change control management, new production site qualifications for alternate sourcing and business continuity, ensuring High-Volume Manufacturing (HVM) capacity readiness, and optimizing cycle time. Google's mission is to organize the world's information and make it universally accessible and useful. Our Devices and Services team combines the best of Google AI, Software, and Hardware to create radically helpful experiences for users. We research, design, and develop new technologies and hardware to make our user's interaction with computing faster, seamless, and more powerful. Whether finding new ways to capture and sense the world around us, advancing form factors, or improving interaction methods, the Devices and Services team is making people's lives better through technology.",
+    "responsibilities": [
+      "Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google'sApplicant and Candidate Privacy Policy.",
+      "Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See alsoGoogle's EEO Policy,Know your rights: workplace discrimination is illegal,Belonging at Google, andHow we hire.",
+      "If you have a need that requires accommodation, please let us know by completing ourAccommodations for Applicants form.",
+      "Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for all roles unless stated otherwise in the job posting.",
+      "To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization location. Google is not responsible for any fees related to unsolicited resumes."
+    ]
+  },
+  {
+    "job_id": "2",
+    "job_title": "Data Engineer, Play Data Science and Analytics",
+    "company_name": "Google",
+    "job_location": "Mountain View, CA, USA",
+    "entry_level": "Advanced",
+    "minimum_qualifications": [
+      "Bachelor's degree in Computer Science, Mathematics, a related field, or equivalent practical experience.",
+      "10 years of experience coding with SQL or one or more programming languages (e.g., Python, Java, R, etc.) for data manipulation, analysis, and automation",
+      "8 years of experience designing data pipelines (ETL) and dimensional data modeling for synchronous and asynchronous system integration and implementation.",
+      "Experience in managing troubleshooting technical issues, and working with Engineering and Sales Services teams."
+    ],
+    "preferred_qualifications": [
+      "Master’s degree in Engineering, Computer Science, Business, or a related field.",
+      "Experience with cloud-based services relevant to data engineering, data storage, data processing, data warehousing, real-time streaming, and serverless computing.",
+      "Experience with experimentation infrastructure, and measurement approaches in a technology platform.",
+      "Experience with data processing software (e.g., Hadoop, Spark, Pig, Hive) and algorithms (e.g., MapReduce, Flume)."
+    ],
+    "job_description": "In this role, you will work with various Data Science and Analytics (DSA) teams and upstream analytics engineering teams to design and build data marts that will empower and accelerate the DSA team and its stakeholders. You will possess an understanding of data scientists and their data requirements and have expertise in architecting data marts, designing and implementing necessary data pipelines, and establishing governance and quality processes to guarantee data availability, usability, and accuracy.The US base salary range for this full-time position is $180,000-$267,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process. Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google .",
+    "responsibilities": [
+      "Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google'sApplicant and Candidate Privacy Policy.",
+      "Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See alsoGoogle's EEO Policy,Know your rights: workplace discrimination is illegal,Belonging at Google, andHow we hire.",
+      "If you have a need that requires accommodation, please let us know by completing ourAccommodations for Applicants form.",
+      "Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for all roles unless stated otherwise in the job posting.",
+      "To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization location. Google is not responsible for any fees related to unsolicited resumes."
+    ]
+  },
+  {
+    "job_id": "3",
+    "job_title": "Data Engineer, YouTube Business Technology",
+    "company_name": "YouTube",
+    "job_location": "Bengaluru, Karnataka, India",
+    "entry_level": "Mid",
+    "minimum_qualifications": [
+      "Bachelor’s degree or equivalent practical experience.",
+      "3 years of experience coding in one or more programming languages.",
+      "3 years of experience working with data infrastructure and data models by performing exploratory queries and scripts.",
+      "Experience in data analysis, database querying (e.g., SQL), and data visualization (dashboards/reports).",
+      "Experience in defining and implementing data governance policies, procedures, and standards, as well as data privacy regulations and compliance requirements."
+    ],
+    "preferred_qualifications": [
+      "Experience working in a business tooling or operations organization.",
+      "Experience with data analysis at scale, including statistics, and machine learning model development (data preparation, model selection, evaluation, tuning).",
+      "Experience with a wide range of data engineering and data governance tools and technologies, including cloud platforms (e.g., GCP, Looker), data warehousing solutions, data quality tools, and metadata management systems.",
+      "Experience in building prototypes or proof-of-concepts using generative AI models (e.g., LLMs, diffusion models) or agentic workflow frameworks."
+    ],
+    "job_description": "In this role, you will be responsible for developing and maintaining solutions that streamline data access, enhance data hygiene, and improve telemetry for YouTube's internal business teams. Your work will impact the efficiency and effectiveness of our support organization, enabling them to better serve our users. You will be part of an engineering team focused on building tools, creating proof-of-concept prototypes, and generating/reviewing technical design documents to address the data needs of our support teamsYouTube/Video Global Solutions is the link between Google video products and sales. Our mission is to fuel innovation that keeps YouTube and Video free and accessible to the world. We do this by translating global market needs into meaningful product solutions that drive business results for content partners and customers.",
+    "responsibilities": [
+      "Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google'sApplicant and Candidate Privacy Policy.",
+      "Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See alsoGoogle's EEO Policy,Know your rights: workplace discrimination is illegal,Belonging at Google, andHow we hire.",
+      "If you have a need that requires accommodation, please let us know by completing ourAccommodations for Applicants form.",
+      "Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for all roles unless stated otherwise in the job posting.",
+      "To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization location. Google is not responsible for any fees related to unsolicited resumes."
+    ]
+  },
+  {
+    "job_id": "4",
+    "job_title": "Data Engineer, Ads Marketing Analytics (Spanish and English)",
+    "company_name": "Google",
+    "job_location": "Mexico City, CDMX, Mexico",
+    "entry_level": "Mid",
+    "minimum_qualifications": [
+      "Bachelor's degree or equivalent practical experience.",
+      "3 years of experience coding in one or more programming languages.",
+      "3 years of experience working with data infrastructure and data models by performing exploratory queries and scripts.",
+      "Ability to communicate in Spanish and English fluently to support client relationship management in this region."
+    ],
+    "preferred_qualifications": [
+      "Experience with cloud-based data platforms.",
+      "Experience working with advanced analytics solutions involving machine learning and statistical analytics including prompt engineering techniques.",
+      "Knowledge of data warehousing concepts, including technical architectures, infrastructure components, ETL and reporting/analytics tools and environments.",
+      "Knowledge of SQL, and experience with data processing software.",
+      "Ability to work cross-functionally with technical and business stakeholders with listening, critical thinking, and problem-solving skills.",
+      "Ability to operate in a fast-paced, constantly evolving and collaborative environment."
+    ],
+    "job_description": "gTech’s Product and Tools Operations team (gPTO) leverages deep user, operational, and technical insights to innovate Google's Ads products into customer experiences that are so intuitive (or automated) that they require no support at all. gPTO partners closely with gTech’s Support, Professional Services, Product Management, and Engineering teams to innovate and simplify our Ads products and build the productivity tools ecosystem for gTech users. As a Data Engineer on the Ads Marketing Analytics team, you will play a vital role in building and maintaining the data infrastructure that fuels our marketing measurement you will design, develop, and optimize data pipelines, ensuring data quality and accessibility for analysis and reporting. Your technical expertise will enable the marketing team to leverage data-driven insights to optimize campaigns and measure the impact of marketing initiatives. You will leverage AI in your work. Know the user. Know the magic. Connect the two. At its core, marketing at Google starts with technology and ends with the user, bringing both together in unconventional ways. Our job is to demonstrate how Google's products solve the world's problems--from the everyday to the epic, from the mundane to the monumental. And we approach marketing in a way that only Google can--changing the game, redefining the medium, making the user the priority, and ultimately, letting the technology speak for itself.",
+    "responsibilities": [
+      "Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google'sApplicant and Candidate Privacy Policy.",
+      "Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See alsoGoogle's EEO Policy,Know your rights: workplace discrimination is illegal,Belonging at Google, andHow we hire.",
+      "If you have a need that requires accommodation, please let us know by completing ourAccommodations for Applicants form.",
+      "Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for all roles unless stated otherwise in the job posting.",
+      "To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization location. Google is not responsible for any fees related to unsolicited resumes."
+    ]
+  },
+  {
+    "job_id": "5",
+    "job_title": "Senior Data Engineer, Supply Chain, Google Cloud",
+    "company_name": "Google",
+    "job_location": "Bengaluru, Karnataka, India",
+    "entry_level": "Mid",
+    "minimum_qualifications": [
+      "Bachelor's degree in Computer Science, Mathematics, a related field, or equivalent practical experience.",
+      "5 years of experience with data processing software (e.g., Hadoop, Spark, Pig, Hive) and algorithms (e.g., MapReduce, Flume).",
+      "Experience writing software in Java, C++, Python, Go, or JavaScript.",
+      "Experience with client-facing projects, troubleshooting technical issues, and working with Engineering and Sales Services teams."
+    ],
+    "preferred_qualifications": [
+      "Experience with data center technology or supply chain.",
+      "Experience working with data scientists.",
+      "Experience with a wide range of data engineering and data governance tools and technologies, including cloud platforms (e.g., Google Cloud Platform), data warehousing solutions, data quality tools, and metadata management systems.",
+      "Experience with collaborative coding and version control.",
+      "Understanding of analytics and model development lifecycle.",
+      "Ability to develop and execute roadmaps for scaling data engineering capabilities."
+    ],
+    "job_description": "The Google Cloud Consulting Professional Services team guides customers through the moments that matter most in their cloud journey to help businesses thrive. We help customers transform and evolve their business through the use of Google’s global network, web-scale data centers, and software infrastructure. As part of an innovative team in this rapidly growing business, you will help shape the future of businesses of all sizes and use technology to connect with customers, employees, and partners. As a Data Engineer, you will guide customers on how to ingest, store, process, analyze, explore, and visualize data on Google Cloud Platform. You will be responsible for data migrations and transformations, partner with clients to architect scalable data processing systems, build efficient data pipelines, and resolve platform tests. In this role, you will collaborate with Google Cloud customers and our team to successfully implement Google Cloud products. Google Cloud accelerates every organization’s ability to digitally transform its business and industry. We deliver enterprise-grade solutions that leverage Google’s cutting-edge technology, and tools that help developers build more sustainably. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to enable growth and solve their most critical business problems.",
+    "responsibilities": [
+      "Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google'sApplicant and Candidate Privacy Policy.",
+      "Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See alsoGoogle's EEO Policy,Know your rights: workplace discrimination is illegal,Belonging at Google, andHow we hire.",
+      "If you have a need that requires accommodation, please let us know by completing ourAccommodations for Applicants form.",
+      "Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for all roles unless stated otherwise in the job posting.",
+      "To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization location. Google is not responsible for any fees related to unsolicited resumes."
+    ]
+  },
+  {
+    "job_id": "6",
+    "job_title": "Data Engineer, Google Trust and Safety",
+    "company_name": "Google",
+    "job_location": "Austin, TX, USA",
+    "entry_level": "Mid",
+    "minimum_qualifications": [
+      "Bachelor's degree or equivalent practical experience.",
+      "3 years of experience working with data infrastructure and data models by performing exploratory queries and scripts.",
+      "3 years of experience designing data pipelines, and dimensional data modeling for synch and asynch system integration and implementation using internal (e.g., Flume, etc.) and external stacks (DataFlow, Spark, etc.).",
+      "3 years of experience with SQL and Python (or Java/C++)."
+    ],
+    "preferred_qualifications": [
+      "3 years of experience with statistical methodology and data consumption tools such as business intelligence tools, collabs, jupyter notebooks, Tableau, Power BI, DataStudio, and business intelligence platforms.",
+      "3 years of experience partnering with stakeholders (e.g., users, partners, customers), and managing stakeholders/customers.",
+      "3 years of experience developing project plans and delivering projects on time within budget and scope.",
+      "Experience with Machine Learning for production workflows."
+    ],
+    "job_description": "gTech’s Product and Tools Operations team (gPTO) leverages deep user, operational, and technical insights to innovate Google's Ads products into customer experiences that are so intuitive (or automated) that they require no support at all. gPTO partners closely with gTech’s Support, Professional Services, Product Management, and Engineering teams to innovate and simplify our Ads products and build the productivity tools ecosystem for gTech users. As part of this team, you will be responsible for designing and developing the data infrastructure needed to support metrics and measurement capabilities for Trust and Safety across various Google products, including Search, Ads, Play, Shopping, Publishers, and YouTube business generation. You will ensure stakeholders have the product, support, and operations data they need to make crucial business decisions. You will have the opportunity to design innovative data solutions and solve challenging problems using Google’s production data infrastructure to drive business optimization and meet regulatory reporting requirements. The US base salary range for this full-time position is $124,000-$178,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process. Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google .",
+    "responsibilities": [
+      "Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google'sApplicant and Candidate Privacy Policy.",
+      "Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See alsoGoogle's EEO Policy,Know your rights: workplace discrimination is illegal,Belonging at Google, andHow we hire.",
+      "If you have a need that requires accommodation, please let us know by completing ourAccommodations for Applicants form.",
+      "Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for all roles unless stated otherwise in the job posting.",
+      "To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization location. Google is not responsible for any fees related to unsolicited resumes."
+    ]
+  },
+  {
+    "job_id": "7",
+    "job_title": "Infrastructure Partner Data Engineer, YouTube",
+    "company_name": "YouTube",
+    "job_location": "Bengaluru, Karnataka, India",
+    "entry_level": "Mid",
+    "minimum_qualifications": [
+      "Bachelor's degree or equivalent practical experience.",
+      "3 years of experience coding in one or more programming languages.",
+      "3 years of experience designing data pipelines, and dimensional data modeling for synch and asynch system integration and implementation using internal (e.g., Flume, etc.) and external stacks (e.g., DataFlow, Spark, etc.).",
+      "3 years of experience working with data infrastructure and data models by performing exploratory queries and scripts."
+    ],
+    "preferred_qualifications": [
+      "3 years of experience with statistical methodology and data consumption tools such as business intelligence tools, collabs, jupyter notebooks, Tableau, Power BI, DataStudio, and business intelligence platforms.",
+      "3 years of experience partnering with stakeholders (e.g., users, partners, customer), and managing stakeholders/customers.",
+      "3 years of experience developing project plans and delivering projects on time within budget and scope.",
+      "Experience with Machine Learning for production workflows."
+    ],
+    "job_description": "As a Technical Solutions Consultant, you will be responsible for the technical relationship of our largest advertising clients and/or product partners. You will lead cross-functional teams in Engineering, Sales and Product Management to leverage emerging technologies for our external clients/partners. From concept design and testing to data analysis and support, you will oversee the technical execution and business operations of Google's online advertising platforms and/or product partnerships. You will be able to balance business and partner needs with technical constraints, develop innovative, cutting edge solutions and act as a partner and consultant to those you are working with. You will also be able to build tools and automate products, oversee the technical execution and business operations of Google's partnerships, as well as develop product strategy and prioritize projects and resources.\nYouTube/Video Global Solutions is the link between Google video products and sales. Our mission is to fuel innovation that keeps YouTube and Video free and accessible to the world. We do this by translating global market needs into meaningful product solutions that drive business results for content partners and customers.",
+    "responsibilities": [
+      "Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google'sApplicant and Candidate Privacy Policy.",
+      "Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See alsoGoogle's EEO Policy,Know your rights: workplace discrimination is illegal,Belonging at Google, andHow we hire.",
+      "If you have a need that requires accommodation, please let us know by completing ourAccommodations for Applicants form.",
+      "Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for all roles unless stated otherwise in the job posting.",
+      "To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization location. Google is not responsible for any fees related to unsolicited resumes."
+    ]
+  },
+  {
+    "job_id": "8",
+    "job_title": "Data Engineer, Google Customer Solutions Engineering",
+    "company_name": "Google",
+    "job_location": "San Francisco, CA, USA",
+    "entry_level": "Mid",
+    "minimum_qualifications": [
+      "Bachelor’s degree in Engineering, Computer Science, a related field, or equivalent practical experience.",
+      "3 years of experience coding with one or more programming languages (e.g., Python, Java, C/C++).",
+      "3 years of experience designing data pipelines (ETL) and model data, for synch and asynch system integration and implementation.",
+      "3 years of experience analyzing data, database query (e.g., SQL), and creating dashboards/reports."
+    ],
+    "preferred_qualifications": [
+      "Master’s degree in Engineering or Computer Science or related field, or equivalent practical experience.",
+      "3 years of experience developing project plans and delivering projects on time within budget and scope.",
+      "3 years of experience partnering with stakeholders (e.g., users, partners, customer).",
+      "Experience with JavaScript and web applications, including front-end frameworks (e.g., Angular, React, Polymer) or backend web services and microservices on cloud infrastructure.",
+      "Familiarity with core web technologies (e.g., HTTP, TCP/IP, HTML, CSS, XML).",
+      "Ability to break down ambiguous problems and generating actionable insights for business decisions."
+    ],
+    "job_description": "In this role, you will be at the forefront of innovating and developing solutions for complex business issues. You will play a pivotal role in building robust data pipelines and full-stack software applications that empower engineers, analysts, and other key stakeholders across the Google Customer Solutions (GCS) organization. Our fluid business environment demands an agile approach to data issues, and you will be instrumental in driving these initiatives forward. Google Customer Solutions (GCS) sales teams are trusted advisors and competitive sellers who maintain a relentless focus on customer success by bringing the best Google has to offer to small- and medium-sized businesses (SMBs), which are the backbone of our communities. As a member of our team, you’ll have the opportunity to work with company owners and make a real difference in their businesses by helping them grow.  Together, we help shape the future of innovation for customers, partners, and sellers...and we have fun doing it. The US base salary range for this full-time position is $124,000-$178,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process. Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google .",
+    "responsibilities": [
+      "Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google'sApplicant and Candidate Privacy Policy.",
+      "Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See alsoGoogle's EEO Policy,Know your rights: workplace discrimination is illegal,Belonging at Google, andHow we hire.",
+      "If you have a need that requires accommodation, please let us know by completing ourAccommodations for Applicants form.",
+      "Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for all roles unless stated otherwise in the job posting.",
+      "To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization location. Google is not responsible for any fees related to unsolicited resumes."
+    ]
+  },
+  {
+    "job_id": "9",
+    "job_title": "Senior Data Engineer, Ads Marketing Analytics (Spanish, English)",
+    "company_name": "Google",
+    "job_location": "Mexico City, CDMX, Mexico",
+    "entry_level": "Mid",
+    "minimum_qualifications": [
+      "Bachelor's degree or equivalent practical experience.",
+      "5 years of experience coding in one or more programming languages.",
+      "5 years of experience working with data infrastructure and data models by performing exploratory queries and scripts.",
+      "Ability to communicate in Spanish and English fluently to support client relationship management in this region."
+    ],
+    "preferred_qualifications": [
+      "Experience working with advanced analytics solutions involving machine learning and statistical analytics including prompt engineering techniques.",
+      "Experience with cloud-based data platforms.",
+      "Knowledge of data warehousing concepts, including technical architectures, infrastructure components, ETL and reporting/analytics tools and environments.",
+      "Knowledge of SQL, and experience with data processing software.",
+      "Ability to work cross-functionally with technical and business stakeholders with listening, critical thinking, and problem-solving skills.",
+      "Ability to operate in a fast-paced, constantly evolving and collaborative environment."
+    ],
+    "job_description": "gTech’s Product and Tools Operations team (gPTO) leverages deep user, operational, and technical insights to innovate Google's Ads products into customer experiences that are so intuitive (or automated) that they require no support at all. gPTO partners closely with gTech’s Support, Professional Services, Product Management, and Engineering teams to innovate and simplify our Ads products and build the productivity tools ecosystem for gTech users. As a Data Engineer on the Ads Marketing Analytics team, you will play a vital role in building and maintaining the data infrastructure that fuels our marketing measurement you will design, develop, and optimize data pipelines, ensuring data quality and accessibility for analysis and reporting. Your technical expertise will enable the marketing team to leverage data-driven insights to optimize campaigns and measure the impact of marketing initiatives. You will leverage AI in your work. Know the user. Know the magic. Connect the two. At its core, marketing at Google starts with technology and ends with the user, bringing both together in unconventional ways. Our job is to demonstrate how Google's products solve the world's problems--from the everyday to the epic, from the mundane to the monumental. And we approach marketing in a way that only Google can--changing the game, redefining the medium, making the user the priority, and ultimately, letting the technology speak for itself.",
+    "responsibilities": [
+      "Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google'sApplicant and Candidate Privacy Policy.",
+      "Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See alsoGoogle's EEO Policy,Know your rights: workplace discrimination is illegal,Belonging at Google, andHow we hire.",
+      "If you have a need that requires accommodation, please let us know by completing ourAccommodations for Applicants form.",
+      "Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for all roles unless stated otherwise in the job posting.",
+      "To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization location. Google is not responsible for any fees related to unsolicited resumes."
+    ]
+  },
+  {
+    "job_id": "10",
+    "job_title": "Senior Data Engineer, Infrastructure, Google Trust and Safety",
+    "company_name": "Google",
+    "job_location": "Dublin, Ireland",
+    "entry_level": "Mid",
+    "minimum_qualifications": [
+      "Bachelor's degree or equivalent practical experience.",
+      "5 years of experience designing data pipelines, and dimensional data modeling for synch and asynch system integration and implementation using internal (e.g., Flume, etc.) and external stacks (DataFlow, Spark, etc.).",
+      "5 years of experience coding in one or more programming languages (e.g., SQL, Python).",
+      "5 years of experience working with data infrastructure and data models by performing exploratory queries and scripts."
+    ],
+    "preferred_qualifications": [
+      "5 years of experience with statistical methodology and data consumption tools such as business intelligence tools, collabs, jupyter notebooks, Tableau, Power BI, Data Studio, and business intelligence platforms.",
+      "3 years of experience developing project plans and delivering projects on time within budget and scope.",
+      "3 years of experience partnering with stakeholders (e.g., users, partners, customer), and managing stakeholders/customers.",
+      "Experience with Machine Learning for production workflows."
+    ],
+    "job_description": "The Core team builds the technical foundation behind Google’s flagship products. We are owners and advocates for the underlying design elements, developer platforms, product components, and infrastructure at Google. These are the essential building blocks for excellent, safe, and coherent experiences for our users and drive the pace of innovation for every developer. We look across Google’s products to build central solutions, break down technical barriers and strengthen existing systems. As the Core team, we have a mandate and a unique opportunity to impact important technical decisions across the company.",
+    "responsibilities": [
+      "Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google'sApplicant and Candidate Privacy Policy.",
+      "Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See alsoGoogle's EEO Policy,Know your rights: workplace discrimination is illegal,Belonging at Google, andHow we hire.",
+      "If you have a need that requires accommodation, please let us know by completing ourAccommodations for Applicants form.",
+      "Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for all roles unless stated otherwise in the job posting.",
+      "To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization location. Google is not responsible for any fees related to unsolicited resumes."
+    ]
+  },
+  {
+    "job_id": "11",
+    "job_title": "Data Engineer, Analytics, Core Infrastructure, Trust and Safety",
+    "company_name": "Google",
+    "job_location": "Dublin, Ireland",
+    "entry_level": "Mid",
+    "minimum_qualifications": [
+      "Bachelor's degree or equivalent practical experience.",
+      "3 years of experience coding in one or more programming languages.",
+      "3 years of experience working with data infrastructure and data models by performing exploratory queries and scripts.",
+      "3 years of experience designing data pipelines, and dimensional data modeling for synch and asynch system integration and implementation using internal (e.g., Flume, etc.) and external stacks (DataFlow, Spark, etc.)."
+    ],
+    "preferred_qualifications": [
+      "3 years of experience with statistical methodology and data consumption tools such as business intelligence tools, collabs, jupyter notebooks, Tableau, Power BI, DataStudio, and business intelligence platforms.",
+      "3 years of experience partnering with stakeholders (e.g., users, partners, customer), and managing stakeholders/customers.",
+      "3 years of experience developing project plans and delivering projects on time within budget and scope.",
+      "Experience with Machine Learning for production workflows."
+    ],
+    "job_description": "The Core team builds the technical foundation behind Google’s flagship products. We are owners and advocates for the underlying design elements, developer platforms, product components, and infrastructure at Google. These are the essential building blocks for excellent, safe, and coherent experiences for our users and drive the pace of innovation for every developer. We look across Google’s products to build central solutions, break down technical barriers and strengthen existing systems. As the Core team, we have a mandate and a unique opportunity to impact important technical decisions across the company.",
+    "responsibilities": [
+      "Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google'sApplicant and Candidate Privacy Policy.",
+      "Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See alsoGoogle's EEO Policy,Know your rights: workplace discrimination is illegal,Belonging at Google, andHow we hire.",
+      "If you have a need that requires accommodation, please let us know by completing ourAccommodations for Applicants form.",
+      "Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for all roles unless stated otherwise in the job posting.",
+      "To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization location. Google is not responsible for any fees related to unsolicited resumes."
+    ]
+  },
+  {
+    "job_id": "12",
+    "job_title": "Revenue Systems Data Engineer, Ads and YouTube Controllership",
+    "company_name": "Google",
+    "job_location": "Dublin, Ireland",
+    "entry_level": "Mid",
+    "minimum_qualifications": [
+      "Bachelor’s degree or equivalent practical experience.",
+      "3 years of experience in one or more object oriented programming languages (Java, C++, or Python, etc.).",
+      "3 years of experience designing data models, data warehouses, and using SQL and NoSQL database management systems along with data processing using traditional and distributed systems (e.g., Hadoop, Spark, Dataflow, Airflow)."
+    ],
+    "preferred_qualifications": [
+      "Master’s degree in Business, Statistics, Mathematics, Economics, Engineering or Applied Science, or a related field.",
+      "5 years of experience in a customer-facing role.",
+      "5 years of experience managing projects and working with analytics, software coding, or customer-side web technologies.",
+      "3 years of experience writing and maintaining ETLs which operate on a variety of structured and unstructured sources.",
+      "3 years of experience in distributed data processing and Unix or GNU/Linux systems.",
+      "Working knowledge of machine learning, including data preparation, model selection, performance evaluation, and parameter tuning."
+    ],
+    "job_description": "As a Revenue Systems Data Engineer within the Ads & YouTube Controllership, you will play a pivotal role in optimizing financial processes and reporting for Google's key product area. You will be instrumental in understanding our product business generation, billing, and ERP systems to advise on and implement process automation, directly supporting critical accounting and controllership activities. In this role, you will collaborate closely with accountants and various engineering teams, translating complex business requirements into robust technical solutions. Your expertise will bridge the gap between business needs and engineering execution, driving enhancements in the efficiency and accuracy of financial reporting. As a multi-domain expert, you will develop high-impact data solutions, ensuring the integrity and compliance of our financial data. Google creates products and services that make the world a better place, and gTech’s role is to help bring them to life. Our teams of trusted advisors support customers globally. Our solutions are rooted in our technical skill, product expertise, and a thorough understanding of our customers’ complex needs. Whether the answer is a bespoke solution to solve a unique problem, or a new tool that can scale across Google, everything we do aims to ensure our customers benefit from the full potential of Google products. To learn more about gTech, check out our video .",
+    "responsibilities": [
+      "Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google'sApplicant and Candidate Privacy Policy.",
+      "Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See alsoGoogle's EEO Policy,Know your rights: workplace discrimination is illegal,Belonging at Google, andHow we hire.",
+      "If you have a need that requires accommodation, please let us know by completing ourAccommodations for Applicants form.",
+      "Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for all roles unless stated otherwise in the job posting.",
+      "To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization location. Google is not responsible for any fees related to unsolicited resumes."
+    ]
+  },
+  {
+    "job_id": "13",
+    "job_title": "Senior Data Engineer, Trust and Safety",
+    "company_name": "Google",
+    "job_location": "Dublin, Ireland",
+    "entry_level": "Mid",
+    "minimum_qualifications": [
+      "Bachelor's degree or equivalent practical experience.",
+      "5 years of experience designing data pipelines, and dimensional data modeling for synchronous and asynchronous system integration and implementation using internal (e.g., Flume, etc.) and external stacks (DataFlow, Spark, etc.).",
+      "5 years of experience coding in one or more programming languages (e.g., SQL and Python).",
+      "5 years of experience working with data infrastructure and data models by performing exploratory queries and scripts."
+    ],
+    "preferred_qualifications": [
+      "5 years of experience with statistical methodology and data consumption tools such as business intelligence tools, collabs, jupyter notebooks, Tableau, Power BI, DataStudio, and business intelligence platforms.",
+      "3 years of experience developing project plans and delivering projects on time within budget and scope.",
+      "3 years of experience partnering with stakeholders (e.g., users, partners, customer), and managing stakeholders, or customers.",
+      "Experience with Machine Learning (ML) for production workflows."
+    ],
+    "job_description": "Global Solutions is the link between Google products and business. Your focus is to help turn innovation into complete, packaged tools that allow our customers to get the most that they need from our products. As part of the Global Solutions team, you'll help to ensure that Google has adopted the right strategy for our products. Working in one of three specialized areas – Performance, Brand, or Publisher & Platform – you'll use your expertise to help front-line Sales partners to work their magic quickly and effectively. You are passionate about all things digital, and want to help shape the world of online advertising.",
+    "responsibilities": [
+      "Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google'sApplicant and Candidate Privacy Policy.",
+      "Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See alsoGoogle's EEO Policy,Know your rights: workplace discrimination is illegal,Belonging at Google, andHow we hire.",
+      "If you have a need that requires accommodation, please let us know by completing ourAccommodations for Applicants form.",
+      "Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for all roles unless stated otherwise in the job posting.",
+      "To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization location. Google is not responsible for any fees related to unsolicited resumes."
+    ]
+  },
+  {
+    "job_id": "14",
+    "job_title": "Data Engineer III, Go-to-Market Operations",
+    "company_name": "Google",
+    "job_location": "New York, NY, USA",
+    "entry_level": "Mid",
+    "minimum_qualifications": [
+      "Bachelor's degree or equivalent practical experience.",
+      "3 years of experience coding in one or more programming languages.",
+      "3 years of experience working with data infrastructure and data models by performing exploratory queries and scripts.",
+      "3 years of experience designing data pipelines, and dimensional data modeling for synch and asynch system integration and implementation using internal (e.g., Flume, etc.) and external stacks (DataFlow, Spark, etc.)."
+    ],
+    "preferred_qualifications": [
+      "Master's degree in Computer Science or a related technical field with relevant coursework or projects.",
+      "4 years of experience with statistical methodology and data consumption tools such as business intelligence tools, collabs, jupyter notebooks, Tableau, Power BI, DataStudio, and business intelligence platforms.",
+      "3 years of experience partnering with stakeholders (e.g., users, partners, customer), presenting to impactful stakeholders, and managing stakeholder or customer relationships.",
+      "Experience developing new project plans and delivering projects on time within budget and scope.",
+      "Excellent problem-solving, communication, and collaboration skills."
+    ],
+    "job_description": "Global Business Organization (GBO) is a global team that serves as the strategy, operations, and product commercialization partner to our Go-to-Market teams. The team ensures Google's complex and ever-evolving business delivers strategic growth and operates effectively. As a Data Engineer in the GBO Eng team, you will focus on building, designing, and deploying a scalable, robust data warehouse using Google internal technologies including Flume, Napa, etc. You will partner with a team of engineers, product managers, and analysts, to build new features to support Google's internal Google Marketing Platform (GMP) sellers. You will architect high quality software, and design key tools and systems as part of infrastructure consisting of ETL pipelines, storage layers, presentation layers, and more. Your contributions will directly impact Google's ad sales business at scale. The Go-to-Market Operations (GtM) team ensures Google's complex and ever-evolving Ads business runs smoothly. We are instrumental in setting go-to-market strategy, and ensuring flawless execution and operations against the strategy. We have teams embedded in each of the major Ads business areas as well as global teams that work across the business areas. Team members are analytical and strategic, with a pragmatic sense of how to get things done. The US base salary range for this full-time position is $124,000-$178,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.\n\nPlease note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google .",
+    "responsibilities": [
+      "Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google'sApplicant and Candidate Privacy Policy.",
+      "Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See alsoGoogle's EEO Policy,Know your rights: workplace discrimination is illegal,Belonging at Google, andHow we hire.",
+      "If you have a need that requires accommodation, please let us know by completing ourAccommodations for Applicants form.",
+      "Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for all roles unless stated otherwise in the job posting.",
+      "To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization location. Google is not responsible for any fees related to unsolicited resumes."
+    ]
+  },
+  {
+    "job_id": "1",
+    "job_title": "Foundry Process Control and Yield Engineer, Custom Silicon",
+    "company_name": "Google",
+    "job_location": "New Taipei, Banqiao District, New Taipei City, Taiwan",
+    "entry_level": "Mid",
+    "minimum_qualifications": [
+      "Bachelor's degree in a technical field, or equivalent practical experience.",
+      "2 years of experience in program management.",
+      "2 years of data analytics experience (such as a data engineer or data scientist) in semiconductor manufacturing industry.",
+      "Experience with silicon testing and yield methodologies and with analyzing volume semiconductor manufacturing data using programming languages and analysis tools (e.g., Python, R, JMP)."
+    ],
+    "preferred_qualifications": [
+      "Master’s degree in Electrical Engineering, Computer Science, or a related field.",
+      "Experience with silicon testing and yield methodologies, test data formats (e.g., STDF), and common silicon analysis techniques.",
+      "Experience in gathering and documenting analysis requirements from stakeholders, translating them into actionable specifications, and soliciting feedback for continuous improvement.",
+      "Experience with Colab or Jupyter Notebooks and excellent data analysis and visualization skills using Python, Pandas, and libraries like Matplotlib, or Plotly.",
+      "Understanding of SQL for data validation and querying.",
+      "Ability to work effectively cross-functionally, collaborating with teams from a broad set of domains and stakeholders across different time zones."
+    ],
+    "job_description": "A problem isn’t truly solved until it’s solved for all. That’s why Googlers build products that help create opportunities for everyone, whether down the street or across the globe. As a Technical Program Manager at Google, you’ll use your technical expertise to lead complex, multi-disciplinary projects from start to finish. You’ll work with stakeholders to plan requirements, identify risks, manage project schedules, and communicate clearly with cross-functional partners across the company. You're equally comfortable explaining your team's analyses and recommendations to executives as you are discussing the technical tradeoffs in product development with engineers. As a Process and Yield Engineer for Custom Silicon, you will join the team responsible for High-Volume Custom Silicon Manufacturing from New Product Introduction (NPI) through product ramp, sustaining, and end of life (EOL). You will be driving yield and process improvement and scrap optimization, manufacturing performance, quality and excursion management and prevention, value engineering, change control management, new production site qualifications for alternate sourcing and business continuity, ensuring High-Volume Manufacturing (HVM) capacity readiness, and optimizing cycle time. Google's mission is to organize the world's information and make it universally accessible and useful. Our Devices and Services team combines the best of Google AI, Software, and Hardware to create radically helpful experiences for users. We research, design, and develop new technologies and hardware to make our user's interaction with computing faster, seamless, and more powerful. Whether finding new ways to capture and sense the world around us, advancing form factors, or improving interaction methods, the Devices and Services team is making people's lives better through technology.",
+    "responsibilities": [
+      "Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google'sApplicant and Candidate Privacy Policy.",
+      "Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See alsoGoogle's EEO Policy,Know your rights: workplace discrimination is illegal,Belonging at Google, andHow we hire.",
+      "If you have a need that requires accommodation, please let us know by completing ourAccommodations for Applicants form.",
+      "Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for all roles unless stated otherwise in the job posting.",
+      "To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization location. Google is not responsible for any fees related to unsolicited resumes."
+    ]
+  },
+  {
+    "job_id": "2",
+    "job_title": "Data Engineer, Play Data Science and Analytics",
+    "company_name": "Google",
+    "job_location": "Mountain View, CA, USA",
+    "entry_level": "Advanced",
+    "minimum_qualifications": [
+      "Bachelor's degree in Computer Science, Mathematics, a related field, or equivalent practical experience.",
+      "10 years of experience coding with SQL or one or more programming languages (e.g., Python, Java, R, etc.) for data manipulation, analysis, and automation",
+      "8 years of experience designing data pipelines (ETL) and dimensional data modeling for synchronous and asynchronous system integration and implementation.",
+      "Experience in managing troubleshooting technical issues, and working with Engineering and Sales Services teams."
+    ],
+    "preferred_qualifications": [
+      "Master’s degree in Engineering, Computer Science, Business, or a related field.",
+      "Experience with cloud-based services relevant to data engineering, data storage, data processing, data warehousing, real-time streaming, and serverless computing.",
+      "Experience with experimentation infrastructure, and measurement approaches in a technology platform.",
+      "Experience with data processing software (e.g., Hadoop, Spark, Pig, Hive) and algorithms (e.g., MapReduce, Flume)."
+    ],
+    "job_description": "In this role, you will work with various Data Science and Analytics (DSA) teams and upstream analytics engineering teams to design and build data marts that will empower and accelerate the DSA team and its stakeholders. You will possess an understanding of data scientists and their data requirements and have expertise in architecting data marts, designing and implementing necessary data pipelines, and establishing governance and quality processes to guarantee data availability, usability, and accuracy.The US base salary range for this full-time position is $180,000-$267,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process. Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google .",
+    "responsibilities": [
+      "Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google'sApplicant and Candidate Privacy Policy.",
+      "Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See alsoGoogle's EEO Policy,Know your rights: workplace discrimination is illegal,Belonging at Google, andHow we hire.",
+      "If you have a need that requires accommodation, please let us know by completing ourAccommodations for Applicants form.",
+      "Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for all roles unless stated otherwise in the job posting.",
+      "To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization location. Google is not responsible for any fees related to unsolicited resumes."
+    ]
+  },
+  {
+    "job_id": "3",
+    "job_title": "Data Engineer, YouTube Business Technology",
+    "company_name": "YouTube",
+    "job_location": "Bengaluru, Karnataka, India",
+    "entry_level": "Mid",
+    "minimum_qualifications": [
+      "Bachelor’s degree or equivalent practical experience.",
+      "3 years of experience coding in one or more programming languages.",
+      "3 years of experience working with data infrastructure and data models by performing exploratory queries and scripts.",
+      "Experience in data analysis, database querying (e.g., SQL), and data visualization (dashboards/reports).",
+      "Experience in defining and implementing data governance policies, procedures, and standards, as well as data privacy regulations and compliance requirements."
+    ],
+    "preferred_qualifications": [
+      "Experience working in a business tooling or operations organization.",
+      "Experience with data analysis at scale, including statistics, and machine learning model development (data preparation, model selection, evaluation, tuning).",
+      "Experience with a wide range of data engineering and data governance tools and technologies, including cloud platforms (e.g., GCP, Looker), data warehousing solutions, data quality tools, and metadata management systems.",
+      "Experience in building prototypes or proof-of-concepts using generative AI models (e.g., LLMs, diffusion models) or agentic workflow frameworks."
+    ],
+    "job_description": "In this role, you will be responsible for developing and maintaining solutions that streamline data access, enhance data hygiene, and improve telemetry for YouTube's internal business teams. Your work will impact the efficiency and effectiveness of our support organization, enabling them to better serve our users. You will be part of an engineering team focused on building tools, creating proof-of-concept prototypes, and generating/reviewing technical design documents to address the data needs of our support teamsYouTube/Video Global Solutions is the link between Google video products and sales. Our mission is to fuel innovation that keeps YouTube and Video free and accessible to the world. We do this by translating global market needs into meaningful product solutions that drive business results for content partners and customers.",
+    "responsibilities": [
+      "Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google'sApplicant and Candidate Privacy Policy.",
+      "Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See alsoGoogle's EEO Policy,Know your rights: workplace discrimination is illegal,Belonging at Google, andHow we hire.",
+      "If you have a need that requires accommodation, please let us know by completing ourAccommodations for Applicants form.",
+      "Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for all roles unless stated otherwise in the job posting.",
+      "To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization location. Google is not responsible for any fees related to unsolicited resumes."
+    ]
+  },
+  {
+    "job_id": "4",
+    "job_title": "Data Engineer, Ads Marketing Analytics (Spanish and English)",
+    "company_name": "Google",
+    "job_location": "Mexico City, CDMX, Mexico",
+    "entry_level": "Mid",
+    "minimum_qualifications": [
+      "Bachelor's degree or equivalent practical experience.",
+      "3 years of experience coding in one or more programming languages.",
+      "3 years of experience working with data infrastructure and data models by performing exploratory queries and scripts.",
+      "Ability to communicate in Spanish and English fluently to support client relationship management in this region."
+    ],
+    "preferred_qualifications": [
+      "Experience with cloud-based data platforms.",
+      "Experience working with advanced analytics solutions involving machine learning and statistical analytics including prompt engineering techniques.",
+      "Knowledge of data warehousing concepts, including technical architectures, infrastructure components, ETL and reporting/analytics tools and environments.",
+      "Knowledge of SQL, and experience with data processing software.",
+      "Ability to work cross-functionally with technical and business stakeholders with listening, critical thinking, and problem-solving skills.",
+      "Ability to operate in a fast-paced, constantly evolving and collaborative environment."
+    ],
+    "job_description": "gTech’s Product and Tools Operations team (gPTO) leverages deep user, operational, and technical insights to innovate Google's Ads products into customer experiences that are so intuitive (or automated) that they require no support at all. gPTO partners closely with gTech’s Support, Professional Services, Product Management, and Engineering teams to innovate and simplify our Ads products and build the productivity tools ecosystem for gTech users. As a Data Engineer on the Ads Marketing Analytics team, you will play a vital role in building and maintaining the data infrastructure that fuels our marketing measurement you will design, develop, and optimize data pipelines, ensuring data quality and accessibility for analysis and reporting. Your technical expertise will enable the marketing team to leverage data-driven insights to optimize campaigns and measure the impact of marketing initiatives. You will leverage AI in your work. Know the user. Know the magic. Connect the two. At its core, marketing at Google starts with technology and ends with the user, bringing both together in unconventional ways. Our job is to demonstrate how Google's products solve the world's problems--from the everyday to the epic, from the mundane to the monumental. And we approach marketing in a way that only Google can--changing the game, redefining the medium, making the user the priority, and ultimately, letting the technology speak for itself.",
+    "responsibilities": [
+      "Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google'sApplicant and Candidate Privacy Policy.",
+      "Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See alsoGoogle's EEO Policy,Know your rights: workplace discrimination is illegal,Belonging at Google, andHow we hire.",
+      "If you have a need that requires accommodation, please let us know by completing ourAccommodations for Applicants form.",
+      "Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for all roles unless stated otherwise in the job posting.",
+      "To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization location. Google is not responsible for any fees related to unsolicited resumes."
+    ]
+  },
+  {
+    "job_id": "5",
+    "job_title": "Senior Data Engineer, Supply Chain, Google Cloud",
+    "company_name": "Google",
+    "job_location": "Bengaluru, Karnataka, India",
+    "entry_level": "Mid",
+    "minimum_qualifications": [
+      "Bachelor's degree in Computer Science, Mathematics, a related field, or equivalent practical experience.",
+      "5 years of experience with data processing software (e.g., Hadoop, Spark, Pig, Hive) and algorithms (e.g., MapReduce, Flume).",
+      "Experience writing software in Java, C++, Python, Go, or JavaScript.",
+      "Experience with client-facing projects, troubleshooting technical issues, and working with Engineering and Sales Services teams."
+    ],
+    "preferred_qualifications": [
+      "Experience with data center technology or supply chain.",
+      "Experience working with data scientists.",
+      "Experience with a wide range of data engineering and data governance tools and technologies, including cloud platforms (e.g., Google Cloud Platform), data warehousing solutions, data quality tools, and metadata management systems.",
+      "Experience with collaborative coding and version control.",
+      "Understanding of analytics and model development lifecycle.",
+      "Ability to develop and execute roadmaps for scaling data engineering capabilities."
+    ],
+    "job_description": "The Google Cloud Consulting Professional Services team guides customers through the moments that matter most in their cloud journey to help businesses thrive. We help customers transform and evolve their business through the use of Google’s global network, web-scale data centers, and software infrastructure. As part of an innovative team in this rapidly growing business, you will help shape the future of businesses of all sizes and use technology to connect with customers, employees, and partners. As a Data Engineer, you will guide customers on how to ingest, store, process, analyze, explore, and visualize data on Google Cloud Platform. You will be responsible for data migrations and transformations, partner with clients to architect scalable data processing systems, build efficient data pipelines, and resolve platform tests. In this role, you will collaborate with Google Cloud customers and our team to successfully implement Google Cloud products. Google Cloud accelerates every organization’s ability to digitally transform its business and industry. We deliver enterprise-grade solutions that leverage Google’s cutting-edge technology, and tools that help developers build more sustainably. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to enable growth and solve their most critical business problems.",
+    "responsibilities": [
+      "Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google'sApplicant and Candidate Privacy Policy.",
+      "Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See alsoGoogle's EEO Policy,Know your rights: workplace discrimination is illegal,Belonging at Google, andHow we hire.",
+      "If you have a need that requires accommodation, please let us know by completing ourAccommodations for Applicants form.",
+      "Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for all roles unless stated otherwise in the job posting.",
+      "To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization location. Google is not responsible for any fees related to unsolicited resumes."
+    ]
+  },
+  {
+    "job_id": "6",
+    "job_title": "Data Engineer, Google Trust and Safety",
+    "company_name": "Google",
+    "job_location": "Austin, TX, USA",
+    "entry_level": "Mid",
+    "minimum_qualifications": [
+      "Bachelor's degree or equivalent practical experience.",
+      "3 years of experience working with data infrastructure and data models by performing exploratory queries and scripts.",
+      "3 years of experience designing data pipelines, and dimensional data modeling for synch and asynch system integration and implementation using internal (e.g., Flume, etc.) and external stacks (DataFlow, Spark, etc.).",
+      "3 years of experience with SQL and Python (or Java/C++)."
+    ],
+    "preferred_qualifications": [
+      "3 years of experience with statistical methodology and data consumption tools such as business intelligence tools, collabs, jupyter notebooks, Tableau, Power BI, DataStudio, and business intelligence platforms.",
+      "3 years of experience partnering with stakeholders (e.g., users, partners, customers), and managing stakeholders/customers.",
+      "3 years of experience developing project plans and delivering projects on time within budget and scope.",
+      "Experience with Machine Learning for production workflows."
+    ],
+    "job_description": "gTech’s Product and Tools Operations team (gPTO) leverages deep user, operational, and technical insights to innovate Google's Ads products into customer experiences that are so intuitive (or automated) that they require no support at all. gPTO partners closely with gTech’s Support, Professional Services, Product Management, and Engineering teams to innovate and simplify our Ads products and build the productivity tools ecosystem for gTech users. As part of this team, you will be responsible for designing and developing the data infrastructure needed to support metrics and measurement capabilities for Trust and Safety across various Google products, including Search, Ads, Play, Shopping, Publishers, and YouTube business generation. You will ensure stakeholders have the product, support, and operations data they need to make crucial business decisions. You will have the opportunity to design innovative data solutions and solve challenging problems using Google’s production data infrastructure to drive business optimization and meet regulatory reporting requirements. The US base salary range for this full-time position is $124,000-$178,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process. Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google .",
+    "responsibilities": [
+      "Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google'sApplicant and Candidate Privacy Policy.",
+      "Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See alsoGoogle's EEO Policy,Know your rights: workplace discrimination is illegal,Belonging at Google, andHow we hire.",
+      "If you have a need that requires accommodation, please let us know by completing ourAccommodations for Applicants form.",
+      "Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for all roles unless stated otherwise in the job posting.",
+      "To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization location. Google is not responsible for any fees related to unsolicited resumes."
+    ]
+  },
+  {
+    "job_id": "7",
+    "job_title": "Infrastructure Partner Data Engineer, YouTube",
+    "company_name": "YouTube",
+    "job_location": "Bengaluru, Karnataka, India",
+    "entry_level": "Mid",
+    "minimum_qualifications": [
+      "Bachelor's degree or equivalent practical experience.",
+      "3 years of experience coding in one or more programming languages.",
+      "3 years of experience designing data pipelines, and dimensional data modeling for synch and asynch system integration and implementation using internal (e.g., Flume, etc.) and external stacks (e.g., DataFlow, Spark, etc.).",
+      "3 years of experience working with data infrastructure and data models by performing exploratory queries and scripts."
+    ],
+    "preferred_qualifications": [
+      "3 years of experience with statistical methodology and data consumption tools such as business intelligence tools, collabs, jupyter notebooks, Tableau, Power BI, DataStudio, and business intelligence platforms.",
+      "3 years of experience partnering with stakeholders (e.g., users, partners, customer), and managing stakeholders/customers.",
+      "3 years of experience developing project plans and delivering projects on time within budget and scope.",
+      "Experience with Machine Learning for production workflows."
+    ],
+    "job_description": "As a Technical Solutions Consultant, you will be responsible for the technical relationship of our largest advertising clients and/or product partners. You will lead cross-functional teams in Engineering, Sales and Product Management to leverage emerging technologies for our external clients/partners. From concept design and testing to data analysis and support, you will oversee the technical execution and business operations of Google's online advertising platforms and/or product partnerships. You will be able to balance business and partner needs with technical constraints, develop innovative, cutting edge solutions and act as a partner and consultant to those you are working with. You will also be able to build tools and automate products, oversee the technical execution and business operations of Google's partnerships, as well as develop product strategy and prioritize projects and resources.\nYouTube/Video Global Solutions is the link between Google video products and sales. Our mission is to fuel innovation that keeps YouTube and Video free and accessible to the world. We do this by translating global market needs into meaningful product solutions that drive business results for content partners and customers.",
+    "responsibilities": [
+      "Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google'sApplicant and Candidate Privacy Policy.",
+      "Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See alsoGoogle's EEO Policy,Know your rights: workplace discrimination is illegal,Belonging at Google, andHow we hire.",
+      "If you have a need that requires accommodation, please let us know by completing ourAccommodations for Applicants form.",
+      "Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for all roles unless stated otherwise in the job posting.",
+      "To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization location. Google is not responsible for any fees related to unsolicited resumes."
+    ]
+  },
+  {
+    "job_id": "8",
+    "job_title": "Data Engineer, Google Customer Solutions Engineering",
+    "company_name": "Google",
+    "job_location": "San Francisco, CA, USA",
+    "entry_level": "Mid",
+    "minimum_qualifications": [
+      "Bachelor’s degree in Engineering, Computer Science, a related field, or equivalent practical experience.",
+      "3 years of experience coding with one or more programming languages (e.g., Python, Java, C/C++).",
+      "3 years of experience designing data pipelines (ETL) and model data, for synch and asynch system integration and implementation.",
+      "3 years of experience analyzing data, database query (e.g., SQL), and creating dashboards/reports."
+    ],
+    "preferred_qualifications": [
+      "Master’s degree in Engineering or Computer Science or related field, or equivalent practical experience.",
+      "3 years of experience developing project plans and delivering projects on time within budget and scope.",
+      "3 years of experience partnering with stakeholders (e.g., users, partners, customer).",
+      "Experience with JavaScript and web applications, including front-end frameworks (e.g., Angular, React, Polymer) or backend web services and microservices on cloud infrastructure.",
+      "Familiarity with core web technologies (e.g., HTTP, TCP/IP, HTML, CSS, XML).",
+      "Ability to break down ambiguous problems and generating actionable insights for business decisions."
+    ],
+    "job_description": "In this role, you will be at the forefront of innovating and developing solutions for complex business issues. You will play a pivotal role in building robust data pipelines and full-stack software applications that empower engineers, analysts, and other key stakeholders across the Google Customer Solutions (GCS) organization. Our fluid business environment demands an agile approach to data issues, and you will be instrumental in driving these initiatives forward. Google Customer Solutions (GCS) sales teams are trusted advisors and competitive sellers who maintain a relentless focus on customer success by bringing the best Google has to offer to small- and medium-sized businesses (SMBs), which are the backbone of our communities. As a member of our team, you’ll have the opportunity to work with company owners and make a real difference in their businesses by helping them grow.  Together, we help shape the future of innovation for customers, partners, and sellers...and we have fun doing it. The US base salary range for this full-time position is $124,000-$178,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process. Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google .",
+    "responsibilities": [
+      "Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google'sApplicant and Candidate Privacy Policy.",
+      "Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See alsoGoogle's EEO Policy,Know your rights: workplace discrimination is illegal,Belonging at Google, andHow we hire.",
+      "If you have a need that requires accommodation, please let us know by completing ourAccommodations for Applicants form.",
+      "Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for all roles unless stated otherwise in the job posting.",
+      "To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization location. Google is not responsible for any fees related to unsolicited resumes."
+    ]
+  },
+  {
+    "job_id": "9",
+    "job_title": "Senior Data Engineer, Ads Marketing Analytics (Spanish, English)",
+    "company_name": "Google",
+    "job_location": "Mexico City, CDMX, Mexico",
+    "entry_level": "Mid",
+    "minimum_qualifications": [
+      "Bachelor's degree or equivalent practical experience.",
+      "5 years of experience coding in one or more programming languages.",
+      "5 years of experience working with data infrastructure and data models by performing exploratory queries and scripts.",
+      "Ability to communicate in Spanish and English fluently to support client relationship management in this region."
+    ],
+    "preferred_qualifications": [
+      "Experience working with advanced analytics solutions involving machine learning and statistical analytics including prompt engineering techniques.",
+      "Experience with cloud-based data platforms.",
+      "Knowledge of data warehousing concepts, including technical architectures, infrastructure components, ETL and reporting/analytics tools and environments.",
+      "Knowledge of SQL, and experience with data processing software.",
+      "Ability to work cross-functionally with technical and business stakeholders with listening, critical thinking, and problem-solving skills.",
+      "Ability to operate in a fast-paced, constantly evolving and collaborative environment."
+    ],
+    "job_description": "gTech’s Product and Tools Operations team (gPTO) leverages deep user, operational, and technical insights to innovate Google's Ads products into customer experiences that are so intuitive (or automated) that they require no support at all. gPTO partners closely with gTech’s Support, Professional Services, Product Management, and Engineering teams to innovate and simplify our Ads products and build the productivity tools ecosystem for gTech users. As a Data Engineer on the Ads Marketing Analytics team, you will play a vital role in building and maintaining the data infrastructure that fuels our marketing measurement you will design, develop, and optimize data pipelines, ensuring data quality and accessibility for analysis and reporting. Your technical expertise will enable the marketing team to leverage data-driven insights to optimize campaigns and measure the impact of marketing initiatives. You will leverage AI in your work. Know the user. Know the magic. Connect the two. At its core, marketing at Google starts with technology and ends with the user, bringing both together in unconventional ways. Our job is to demonstrate how Google's products solve the world's problems--from the everyday to the epic, from the mundane to the monumental. And we approach marketing in a way that only Google can--changing the game, redefining the medium, making the user the priority, and ultimately, letting the technology speak for itself.",
+    "responsibilities": [
+      "Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google'sApplicant and Candidate Privacy Policy.",
+      "Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See alsoGoogle's EEO Policy,Know your rights: workplace discrimination is illegal,Belonging at Google, andHow we hire.",
+      "If you have a need that requires accommodation, please let us know by completing ourAccommodations for Applicants form.",
+      "Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for all roles unless stated otherwise in the job posting.",
+      "To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization location. Google is not responsible for any fees related to unsolicited resumes."
+    ]
+  },
+  {
+    "job_id": "10",
+    "job_title": "Senior Data Engineer, Infrastructure, Google Trust and Safety",
+    "company_name": "Google",
+    "job_location": "Dublin, Ireland",
+    "entry_level": "Mid",
+    "minimum_qualifications": [
+      "Bachelor's degree or equivalent practical experience.",
+      "5 years of experience designing data pipelines, and dimensional data modeling for synch and asynch system integration and implementation using internal (e.g., Flume, etc.) and external stacks (DataFlow, Spark, etc.).",
+      "5 years of experience coding in one or more programming languages (e.g., SQL, Python).",
+      "5 years of experience working with data infrastructure and data models by performing exploratory queries and scripts."
+    ],
+    "preferred_qualifications": [
+      "5 years of experience with statistical methodology and data consumption tools such as business intelligence tools, collabs, jupyter notebooks, Tableau, Power BI, Data Studio, and business intelligence platforms.",
+      "3 years of experience developing project plans and delivering projects on time within budget and scope.",
+      "3 years of experience partnering with stakeholders (e.g., users, partners, customer), and managing stakeholders/customers.",
+      "Experience with Machine Learning for production workflows."
+    ],
+    "job_description": "The Core team builds the technical foundation behind Google’s flagship products. We are owners and advocates for the underlying design elements, developer platforms, product components, and infrastructure at Google. These are the essential building blocks for excellent, safe, and coherent experiences for our users and drive the pace of innovation for every developer. We look across Google’s products to build central solutions, break down technical barriers and strengthen existing systems. As the Core team, we have a mandate and a unique opportunity to impact important technical decisions across the company.",
+    "responsibilities": [
+      "Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google'sApplicant and Candidate Privacy Policy.",
+      "Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See alsoGoogle's EEO Policy,Know your rights: workplace discrimination is illegal,Belonging at Google, andHow we hire.",
+      "If you have a need that requires accommodation, please let us know by completing ourAccommodations for Applicants form.",
+      "Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for all roles unless stated otherwise in the job posting.",
+      "To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization location. Google is not responsible for any fees related to unsolicited resumes."
+    ]
+  },
+  {
+    "job_id": "11",
+    "job_title": "Data Engineer, Analytics, Core Infrastructure, Trust and Safety",
+    "company_name": "Google",
+    "job_location": "Dublin, Ireland",
+    "entry_level": "Mid",
+    "minimum_qualifications": [
+      "Bachelor's degree or equivalent practical experience.",
+      "3 years of experience coding in one or more programming languages.",
+      "3 years of experience working with data infrastructure and data models by performing exploratory queries and scripts.",
+      "3 years of experience designing data pipelines, and dimensional data modeling for synch and asynch system integration and implementation using internal (e.g., Flume, etc.) and external stacks (DataFlow, Spark, etc.)."
+    ],
+    "preferred_qualifications": [
+      "3 years of experience with statistical methodology and data consumption tools such as business intelligence tools, collabs, jupyter notebooks, Tableau, Power BI, DataStudio, and business intelligence platforms.",
+      "3 years of experience partnering with stakeholders (e.g., users, partners, customer), and managing stakeholders/customers.",
+      "3 years of experience developing project plans and delivering projects on time within budget and scope.",
+      "Experience with Machine Learning for production workflows."
+    ],
+    "job_description": "The Core team builds the technical foundation behind Google’s flagship products. We are owners and advocates for the underlying design elements, developer platforms, product components, and infrastructure at Google. These are the essential building blocks for excellent, safe, and coherent experiences for our users and drive the pace of innovation for every developer. We look across Google’s products to build central solutions, break down technical barriers and strengthen existing systems. As the Core team, we have a mandate and a unique opportunity to impact important technical decisions across the company.",
+    "responsibilities": [
+      "Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google'sApplicant and Candidate Privacy Policy.",
+      "Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See alsoGoogle's EEO Policy,Know your rights: workplace discrimination is illegal,Belonging at Google, andHow we hire.",
+      "If you have a need that requires accommodation, please let us know by completing ourAccommodations for Applicants form.",
+      "Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for all roles unless stated otherwise in the job posting.",
+      "To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization location. Google is not responsible for any fees related to unsolicited resumes."
+    ]
+  },
+  {
+    "job_id": "12",
+    "job_title": "Revenue Systems Data Engineer, Ads and YouTube Controllership",
+    "company_name": "Google",
+    "job_location": "Dublin, Ireland",
+    "entry_level": "Mid",
+    "minimum_qualifications": [
+      "Bachelor’s degree or equivalent practical experience.",
+      "3 years of experience in one or more object oriented programming languages (Java, C++, or Python, etc.).",
+      "3 years of experience designing data models, data warehouses, and using SQL and NoSQL database management systems along with data processing using traditional and distributed systems (e.g., Hadoop, Spark, Dataflow, Airflow)."
+    ],
+    "preferred_qualifications": [
+      "Master’s degree in Business, Statistics, Mathematics, Economics, Engineering or Applied Science, or a related field.",
+      "5 years of experience in a customer-facing role.",
+      "5 years of experience managing projects and working with analytics, software coding, or customer-side web technologies.",
+      "3 years of experience writing and maintaining ETLs which operate on a variety of structured and unstructured sources.",
+      "3 years of experience in distributed data processing and Unix or GNU/Linux systems.",
+      "Working knowledge of machine learning, including data preparation, model selection, performance evaluation, and parameter tuning."
+    ],
+    "job_description": "As a Revenue Systems Data Engineer within the Ads & YouTube Controllership, you will play a pivotal role in optimizing financial processes and reporting for Google's key product area. You will be instrumental in understanding our product business generation, billing, and ERP systems to advise on and implement process automation, directly supporting critical accounting and controllership activities. In this role, you will collaborate closely with accountants and various engineering teams, translating complex business requirements into robust technical solutions. Your expertise will bridge the gap between business needs and engineering execution, driving enhancements in the efficiency and accuracy of financial reporting. As a multi-domain expert, you will develop high-impact data solutions, ensuring the integrity and compliance of our financial data. Google creates products and services that make the world a better place, and gTech’s role is to help bring them to life. Our teams of trusted advisors support customers globally. Our solutions are rooted in our technical skill, product expertise, and a thorough understanding of our customers’ complex needs. Whether the answer is a bespoke solution to solve a unique problem, or a new tool that can scale across Google, everything we do aims to ensure our customers benefit from the full potential of Google products. To learn more about gTech, check out our video .",
+    "responsibilities": [
+      "Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google'sApplicant and Candidate Privacy Policy.",
+      "Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See alsoGoogle's EEO Policy,Know your rights: workplace discrimination is illegal,Belonging at Google, andHow we hire.",
+      "If you have a need that requires accommodation, please let us know by completing ourAccommodations for Applicants form.",
+      "Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for all roles unless stated otherwise in the job posting.",
+      "To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization location. Google is not responsible for any fees related to unsolicited resumes."
+    ]
+  },
+  {
+    "job_id": "13",
+    "job_title": "Senior Data Engineer, Trust and Safety",
+    "company_name": "Google",
+    "job_location": "Dublin, Ireland",
+    "entry_level": "Mid",
+    "minimum_qualifications": [
+      "Bachelor's degree or equivalent practical experience.",
+      "5 years of experience designing data pipelines, and dimensional data modeling for synchronous and asynchronous system integration and implementation using internal (e.g., Flume, etc.) and external stacks (DataFlow, Spark, etc.).",
+      "5 years of experience coding in one or more programming languages (e.g., SQL and Python).",
+      "5 years of experience working with data infrastructure and data models by performing exploratory queries and scripts."
+    ],
+    "preferred_qualifications": [
+      "5 years of experience with statistical methodology and data consumption tools such as business intelligence tools, collabs, jupyter notebooks, Tableau, Power BI, DataStudio, and business intelligence platforms.",
+      "3 years of experience developing project plans and delivering projects on time within budget and scope.",
+      "3 years of experience partnering with stakeholders (e.g., users, partners, customer), and managing stakeholders, or customers.",
+      "Experience with Machine Learning (ML) for production workflows."
+    ],
+    "job_description": "Global Solutions is the link between Google products and business. Your focus is to help turn innovation into complete, packaged tools that allow our customers to get the most that they need from our products. As part of the Global Solutions team, you'll help to ensure that Google has adopted the right strategy for our products. Working in one of three specialized areas – Performance, Brand, or Publisher & Platform – you'll use your expertise to help front-line Sales partners to work their magic quickly and effectively. You are passionate about all things digital, and want to help shape the world of online advertising.",
+    "responsibilities": [
+      "Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google'sApplicant and Candidate Privacy Policy.",
+      "Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See alsoGoogle's EEO Policy,Know your rights: workplace discrimination is illegal,Belonging at Google, andHow we hire.",
+      "If you have a need that requires accommodation, please let us know by completing ourAccommodations for Applicants form.",
+      "Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for all roles unless stated otherwise in the job posting.",
+      "To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization location. Google is not responsible for any fees related to unsolicited resumes."
+    ]
+  },
+  {
+    "job_id": "14",
+    "job_title": "Data Engineer III, Go-to-Market Operations",
+    "company_name": "Google",
+    "job_location": "New York, NY, USA",
+    "entry_level": "Mid",
+    "minimum_qualifications": [
+      "Bachelor's degree or equivalent practical experience.",
+      "3 years of experience coding in one or more programming languages.",
+      "3 years of experience working with data infrastructure and data models by performing exploratory queries and scripts.",
+      "3 years of experience designing data pipelines, and dimensional data modeling for synch and asynch system integration and implementation using internal (e.g., Flume, etc.) and external stacks (DataFlow, Spark, etc.)."
+    ],
+    "preferred_qualifications": [
+      "Master's degree in Computer Science or a related technical field with relevant coursework or projects.",
+      "4 years of experience with statistical methodology and data consumption tools such as business intelligence tools, collabs, jupyter notebooks, Tableau, Power BI, DataStudio, and business intelligence platforms.",
+      "3 years of experience partnering with stakeholders (e.g., users, partners, customer), presenting to impactful stakeholders, and managing stakeholder or customer relationships.",
+      "Experience developing new project plans and delivering projects on time within budget and scope.",
+      "Excellent problem-solving, communication, and collaboration skills."
+    ],
+    "job_description": "Global Business Organization (GBO) is a global team that serves as the strategy, operations, and product commercialization partner to our Go-to-Market teams. The team ensures Google's complex and ever-evolving business delivers strategic growth and operates effectively. As a Data Engineer in the GBO Eng team, you will focus on building, designing, and deploying a scalable, robust data warehouse using Google internal technologies including Flume, Napa, etc. You will partner with a team of engineers, product managers, and analysts, to build new features to support Google's internal Google Marketing Platform (GMP) sellers. You will architect high quality software, and design key tools and systems as part of infrastructure consisting of ETL pipelines, storage layers, presentation layers, and more. Your contributions will directly impact Google's ad sales business at scale. The Go-to-Market Operations (GtM) team ensures Google's complex and ever-evolving Ads business runs smoothly. We are instrumental in setting go-to-market strategy, and ensuring flawless execution and operations against the strategy. We have teams embedded in each of the major Ads business areas as well as global teams that work across the business areas. Team members are analytical and strategic, with a pragmatic sense of how to get things done. The US base salary range for this full-time position is $124,000-$178,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.\n\nPlease note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google .",
+    "responsibilities": [
+      "Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google'sApplicant and Candidate Privacy Policy.",
+      "Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See alsoGoogle's EEO Policy,Know your rights: workplace discrimination is illegal,Belonging at Google, andHow we hire.",
+      "If you have a need that requires accommodation, please let us know by completing ourAccommodations for Applicants form.",
+      "Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for all roles unless stated otherwise in the job posting.",
+      "To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization location. Google is not responsible for any fees related to unsolicited resumes."
+    ]
+  }
+]

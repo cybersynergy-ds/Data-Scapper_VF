@@ -1,0 +1,10 @@
+requests==2.31.0
+beautifulsoup4==4.12.2
+pandas==2.1.4
+lxml==4.9.3
+python-dotenv==1.0.1
+webdriver-manager==4.0.1
+fake-useragent==1.4.0
+mysql-connector-python==8.3.0
+prefect==2.14.0
+selenium==4.20.0

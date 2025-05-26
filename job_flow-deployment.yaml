@@ -1,0 +1,48 @@
+###
+### A complete description of a Prefect Deployment for flow 'Job Scraper and Loader'
+###
+name: Hourly Job Scraper
+description: null
+version: 15b4205f7a368fbf6bbd91d794e4debe
+# The work queue that will handle this deployment's runs
+work_queue_name: default
+work_pool_name: null
+tags: []
+parameters: {}
+schedule: null
+schedules:
+- schedule:
+    interval: 3600.0
+    anchor_date: '2025-05-26T19:00:35.631161+00:00'
+    timezone: UTC
+  active: true
+is_schedule_active: null
+infra_overrides: {}
+infrastructure:
+  type: process
+  env: {}
+  labels: {}
+  name: null
+  command: null
+  stream_output: true
+  working_dir: null
+  block_type_slug: process
+  _block_type_slug: process
+
+###
+### DO NOT EDIT BELOW THIS LINE
+###
+flow_name: Job Scraper and Loader
+manifest_path: null
+storage: null
+path: C:\Users\ACER\Data_Scapper\Data-Scapper_VF
+entrypoint: job_flow.py:job_flow
+parameter_openapi_schema:
+  title: Parameters
+  type: object
+  properties: {}
+  required: null
+  definitions: null
+timestamp: '2025-05-26T19:00:35.651678+00:00'
+triggers: []
+enforce_parameter_schema: null
