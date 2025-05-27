@@ -1,5 +1,7 @@
 # Job Scraper and Loader
 
+video solution : https://drive.google.com/file/d/10zmOykph5EGZJ9M08YqMMybE95Vhe5Lz/view?usp=sharing
+
 ## Overview  
 This project automates scraping job listings from a Google Jobs website, filters the data, and loads it into a MySQL database. It also supports automated periodic every hour runs to fetch only new job entries and avoid duplication.
 
